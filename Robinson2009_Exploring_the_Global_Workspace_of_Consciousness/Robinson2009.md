@@ -1,0 +1,1 @@
+Biologists define consciousness as any process in brain which is not “input driven”. The experiment they tried giving a very short image and masking it with a different image so no conscious process is left. And, subject can not answer it with better than random. When there is no mask, they can answer. Hence, brain does some extra processing without input

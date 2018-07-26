@@ -1,0 +1,22 @@
+{
+    "title": "Adversarial Metric Learning",
+    "authors": [
+        "Shuo Chen",
+        "Chen Gong",
+        "Jian Yang",
+        "Xiang Li",
+        "Yang Wei",
+        "Jun Li"
+    ],
+    "year": "2018",
+    "date_added": "2018-07-26 21:24",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1802.03170v1",
+    "tags_content": [
+        "metric.learning",
+        "adversarial"
+    ]
+}

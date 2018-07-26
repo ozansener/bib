@@ -1,0 +1,19 @@
+{
+    "title": "Accelerating Neural Architecture Search using Performance Prediction",
+    "authors": [
+        "Bowen Baker",
+        "Otkrist Gupta",
+        "Ramesh Raskar",
+        "Nikhil Naik"
+    ],
+    "year": "2017",
+    "date_added": "2018-07-26 21:33",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1705.10823v2",
+    "tags_content": [
+        "arch.search"
+    ]
+}

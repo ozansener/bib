@@ -1,0 +1,1 @@
+Very interesting paper. Idea is doing importance sampling and somehow gradient norm is optimal for it. Moreover, they show that it is possible to approximate the gradient norm with a norm of the last gradient since batch norm typically handles rest of it.

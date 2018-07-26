@@ -1,0 +1,27 @@
+{
+    "title": "Population Based Training of Neural Networks",
+    "authors": [
+        "Max Jaderberg",
+        "Valentin Dalibard",
+        "Simon Osindero",
+        "Wojciech M. Czarnecki",
+        "Jeff Donahue",
+        "Ali Razavi",
+        "Oriol Vinyals",
+        "Tim Green",
+        "Iain Dunning",
+        "Karen Simonyan",
+        "Chrisantha Fernando",
+        "Koray Kavukcuoglu"
+    ],
+    "year": "2017",
+    "date_added": "2018-07-26 21:33",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1711.09846v2",
+    "tags_content": [
+        "arch.search"
+    ]
+}

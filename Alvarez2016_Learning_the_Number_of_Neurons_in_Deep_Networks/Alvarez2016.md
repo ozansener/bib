@@ -1,0 +1,3 @@
+- Add a group sparsity loss to regularize things.
+- Not really an arch search but still an interesting paper
+- Why they use prox-gradient descent is beyond my understanding. g(x) is not convex anyway, why not take gradient of everything? May be momentum hurts the regularizer? Think about this at some point

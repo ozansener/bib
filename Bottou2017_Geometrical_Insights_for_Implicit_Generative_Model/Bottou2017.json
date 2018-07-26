@@ -1,0 +1,22 @@
+{
+    "title": "Geometrical Insights for Implicit Generative Modeling",
+    "authors": [
+        "Leon Bottou",
+        "Martin Arjovsky",
+        "David Lopez-Paz",
+        "Maxime Oquab"
+    ],
+    "year": "2017",
+    "date_added": "2018-07-26 21:30",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1712.07822v2",
+    "tags_content": [
+        "theory",
+        "wasserstein",
+        "gan",
+        "optimal.transport"
+    ]
+}

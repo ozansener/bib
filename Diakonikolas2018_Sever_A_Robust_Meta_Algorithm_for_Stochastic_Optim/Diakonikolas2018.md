@@ -1,0 +1,1 @@
+Robust gradient descent. I only went through the algotithm, not the math. But, the main idea is given a solution if there is a structured noise which can change the result, it has strong gradient in a fixed direction. Idea is computing the centred gradients and choosing the one with the low magnitude.

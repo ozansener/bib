@@ -1,0 +1,19 @@
+{
+    "title": "A DIRT-T Approach to Unsupervised Domain Adaptation",
+    "authors": [
+        "Rui Shu",
+        "Hung H. Bui",
+        "Hirokazu Narui",
+        "Stefano Ermon"
+    ],
+    "year": "2018",
+    "date_added": "2018-07-26 21:23",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1802.08735v2",
+    "tags_content": [
+        "domain.adaptation"
+    ]
+}

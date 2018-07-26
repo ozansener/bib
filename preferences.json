@@ -1,0 +1,113 @@
+{
+    "tags": {
+        "content": {
+            "importance.sampling": {
+                "pinned": false,
+                "color": "0F5B78",
+                "count": 1
+            },
+            "theory": {
+                "pinned": false,
+                "color": 117899,
+                "count": 6
+            },
+            "domain.adaptation": {
+                "pinned": false,
+                "color": "A2B86C",
+                "count": 2
+            },
+            "lifelong.learning": {
+                "pinned": false,
+                "color": "EBC844",
+                "count": 2
+            },
+            "robust.learning": {
+                "pinned": false,
+                "color": "ECAA38",
+                "count": 1
+            },
+            "stochastic.optimization": {
+                "pinned": false,
+                "color": "EF8B2C",
+                "count": 1
+            },
+            "metric.learning": {
+                "pinned": false,
+                "color": "F16C20",
+                "count": 1
+            },
+            "adversarial": {
+                "pinned": false,
+                "color": "D94E1F",
+                "count": 1
+            },
+            "dataset": {
+                "pinned": false,
+                "color": "C02E1D",
+                "count": 1
+            },
+            "optimization": {
+                "pinned": false,
+                "color": "B31B2A",
+                "count": 2
+            },
+            "moo": {
+                "pinned": false,
+                "color": "AA1F4B",
+                "count": 2
+            },
+            "wasserstein": {
+                "pinned": false,
+                "color": "8A214F",
+                "count": 1
+            },
+            "gan": {
+                "pinned": false,
+                "color": "65214F",
+                "count": 1
+            },
+            "optimal.transport": {
+                "pinned": false,
+                "color": "4C214F",
+                "count": 1
+            },
+            "bio": {
+                "pinned": false,
+                "color": "32214F",
+                "count": 1
+            },
+            "cognitive": {
+                "pinned": false,
+                "color": "1F214F",
+                "count": 1
+            },
+            "opinion": {
+                "pinned": false,
+                "color": "00214F",
+                "count": 1
+            },
+            "arch.search": {
+                "pinned": false,
+                "color": "000F24",
+                "count": 3
+            }
+        },
+        "reading": {
+            "to.read.again": {
+                "pinned": false,
+                "color": "1395BA",
+                "count": 3
+            },
+            "done": {
+                "pinned": false,
+                "color": "5CA793",
+                "count": 14
+            },
+            "new": {
+                "pinned": false,
+                "color": "0D3C55",
+                "count": 1
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "title": "Knowledge Transfer with Jacobian Matching",
+    "authors": [
+        "Suraj Srinivas",
+        "Francois Fleuret"
+    ],
+    "year": "2018",
+    "date_added": "2018-07-26 21:21",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1803.00443v1",
+    "tags_content": [
+        "domain.adaptation",
+        "theory",
+        "lifelong.learning"
+    ]
+}

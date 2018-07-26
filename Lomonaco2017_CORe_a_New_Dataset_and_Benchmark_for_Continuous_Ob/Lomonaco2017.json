@@ -1,0 +1,18 @@
+{
+    "title": "CORe50: a New Dataset and Benchmark for Continuous Object Recognition",
+    "authors": [
+        "Vincenzo Lomonaco",
+        "Davide Maltoni"
+    ],
+    "year": "2017",
+    "date_added": "2018-07-26 21:26",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1705.03550v1",
+    "tags_content": [
+        "lifelong.learning",
+        "dataset"
+    ]
+}
