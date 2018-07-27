@@ -1,0 +1,20 @@
+{
+    "title": "Assessing Generative Models via Precision and Recall",
+    "authors": [
+        "Mehdi S. M. Sajjadi",
+        "Olivier Bachem",
+        "Mario Lucic",
+        "Olivier Bousquet",
+        "Sylvain Gelly"
+    ],
+    "year": "2018",
+    "date_added": "2018-07-26 23:00",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1806.00035v1",
+    "tags_content": [
+        "gan"
+    ]
+}

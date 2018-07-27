@@ -1,0 +1,20 @@
+{
+    "title": "GAN and VAE from an Optimal Transport Point of View",
+    "authors": [
+        "Aude Genevay",
+        "Gabriel Peyr\u00e9",
+        "Marco Cuturi"
+    ],
+    "year": "2017",
+    "date_added": "2018-07-26 22:48",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1706.01807v1",
+    "tags_content": [
+        "gan",
+        "theory",
+        "wasserstein"
+    ]
+}

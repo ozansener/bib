@@ -1,0 +1,21 @@
+{
+    "title": "Many Paths to Equilibrium: GANs Do Not Need to Decrease a Divergence At\n  Every Step",
+    "authors": [
+        "William Fedus",
+        "Mihaela Rosca",
+        "Balaji Lakshminarayanan",
+        "Andrew M. Dai",
+        "Shakir Mohamed",
+        "Ian Goodfellow"
+    ],
+    "year": "2017",
+    "date_added": "2018-07-26 22:50",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1710.08446v3",
+    "tags_content": [
+        "gan"
+    ]
+}

@@ -1,0 +1,2 @@
+- Batch Norm basically makes layers norm independent (weight sense) for the subsequent layers 
+- You can replace $l_2$ Batch Norm with $l_1$ or $l_{\inf}$

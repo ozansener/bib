@@ -1,0 +1,1 @@
+Looks GANs from a perspective of optimization in vector field since two player zero-sum game is indeed a vector field. It shows it only converges if some special properties about gradient field. Proposed idea is locally minimising the norm of the gradient (which is suspiciously related to MGDA???)

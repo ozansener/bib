@@ -1,0 +1,24 @@
+@article { Mechrez2018,
+	abstract = {Feed-forward CNNs trained for image transformation problems rely on loss
+functions that measure the similarity between the generated image and a target
+image. Most of the common loss functions assume that these images are spatially
+aligned and compare pixels at corresponding locations. However, for many tasks,
+aligned training pairs of images will not be available. We present an
+alternative loss function that does not require alignment, thus providing an
+effective and simple solution for a new space of problems. Our loss is based on
+both context and semantics -- it compares regions with similar semantic
+meaning, while considering the context of the entire image. Hence, for example,
+when transferring the style of one face to another, it will translate
+eyes-to-eyes and mouth-to-mouth. Our code can be found at
+https://www.github.com/roimehrez/contextualLoss},
+	url = {http://arxiv.org/pdf/1803.02077v4},
+	eprint = {1803.02077},
+	arxivid = {1803.02077},
+	archiveprefix = {arXiv},
+	month = {Mar},
+	year = {2018},
+	booktitle = {arXiv},
+	title = {{The Contextual Loss for Image Transformation with Non-Aligned Data}},
+	author = {Roey Mechrez and Itamar Talmi and Lihi Zelnik-Manor}
+}
+

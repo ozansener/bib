@@ -1,0 +1,19 @@
+{
+    "title": "The Numerics of GANs",
+    "authors": [
+        "Lars Mescheder",
+        "Sebastian Nowozin",
+        "Andreas Geiger"
+    ],
+    "year": "2017",
+    "date_added": "2018-07-26 22:45",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1705.10461v3",
+    "tags_content": [
+        "gan",
+        "optimization"
+    ]
+}

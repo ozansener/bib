@@ -1,0 +1,1 @@
+Main point is an empirical proof that GANs do not necessarily minimiz divergence directly. Basically, mini-max might fail bit non-saturating version does not. Gradient penalties help even if the setup is not wasserstein. Basically, even if JS divergence minimization fails, GANs might not. So ¯\_(ツ)_/¯

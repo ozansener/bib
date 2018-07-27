@@ -1,0 +1,18 @@
+{
+    "title": "The Contextual Loss for Image Transformation with Non-Aligned Data",
+    "authors": [
+        "Roey Mechrez",
+        "Itamar Talmi",
+        "Lihi Zelnik-Manor"
+    ],
+    "year": "2018",
+    "date_added": "2018-07-26 22:46",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1803.02077v4",
+    "tags_content": [
+        "perceptual.loss"
+    ]
+}

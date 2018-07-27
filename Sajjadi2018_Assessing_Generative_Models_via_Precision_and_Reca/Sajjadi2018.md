@@ -1,0 +1,2 @@
+- Basic idea is defining the distributions as common distribution + unexplored. And look at the ratio of common parts in both query and GT distribution. 
+- Cool thing is they convert this into a one-dimensional problem on a single direction.

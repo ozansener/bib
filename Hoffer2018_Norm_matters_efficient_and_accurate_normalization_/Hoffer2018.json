@@ -1,0 +1,20 @@
+{
+    "title": "Norm matters: efficient and accurate normalization schemes in deep\n  networks",
+    "authors": [
+        "Elad Hoffer",
+        "Ron Banner",
+        "Itay Golan",
+        "Daniel Soudry"
+    ],
+    "year": "2018",
+    "date_added": "2018-07-27 11:01",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1803.01814v2",
+    "tags_content": [
+        "normalization",
+        "deep.learning"
+    ]
+}

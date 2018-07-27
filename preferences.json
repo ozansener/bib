@@ -89,7 +89,52 @@
             "arch.search": {
                 "pinned": false,
                 "color": "000F24",
-                "count": 3
+                "count": 4
+            },
+            "perceptual.loss": {
+                "pinned": false,
+                "color": "001738",
+                "count": 0
+            },
+            "multi.task": {
+                "pinned": false,
+                "color": "0D3C55",
+                "count": 0
+            },
+            "vision": {
+                "pinned": false,
+                "color": "0F5B78",
+                "count": 0
+            },
+            "affordances": {
+                "pinned": false,
+                "color": 117899,
+                "count": 0
+            },
+            "objects": {
+                "pinned": false,
+                "color": "1395BA",
+                "count": 0
+            },
+            "causality": {
+                "pinned": false,
+                "color": "5CA793",
+                "count": 0
+            },
+            "dimensionality.reduction": {
+                "pinned": false,
+                "color": "A2B86C",
+                "count": 0
+            },
+            "normalization": {
+                "pinned": false,
+                "color": "EBC844",
+                "count": 0
+            },
+            "deep.learning": {
+                "pinned": false,
+                "color": "ECAA38",
+                "count": 0
             }
         },
         "reading": {
@@ -101,12 +146,12 @@
             "done": {
                 "pinned": false,
                 "color": "5CA793",
-                "count": 14
+                "count": 15
             },
             "new": {
                 "pinned": false,
                 "color": "0D3C55",
-                "count": 1
+                "count": 11
             }
         }
     }
