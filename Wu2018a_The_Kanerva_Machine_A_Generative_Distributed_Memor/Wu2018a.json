@@ -1,0 +1,20 @@
+{
+    "title": "The Kanerva Machine: A Generative Distributed Memory",
+    "authors": [
+        "Yan Wu",
+        "Greg Wayne",
+        "Alex Graves",
+        "Timothy Lillicrap"
+    ],
+    "year": "2018",
+    "date_added": "2018-07-27 11:22",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1804.01756v3",
+    "tags_content": [
+        "memory",
+        "unsupervised.learning"
+    ]
+}

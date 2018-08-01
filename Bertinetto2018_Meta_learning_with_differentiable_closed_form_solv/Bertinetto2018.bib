@@ -1,0 +1,29 @@
+@article { Bertinetto2018,
+	abstract = {Adapting deep networks to new concepts from few examples is extremely
+challenging, due to the high computational and data requirements of standard
+fine-tuning procedures. Most works on meta-learning and few-shot learning have
+thus focused on simple learning techniques for adaptation, such as nearest
+neighbors or gradient descent. Nonetheless, the machine learning literature
+contains a wealth of methods that learn non-deep models very efficiently. In
+this work we propose to use these fast convergent methods as the main
+adaptation mechanism for few-shot learning. The main idea is to teach a deep
+network to use standard machine learning tools, such as logistic regression, as
+part of its own internal model, enabling it to quickly adapt to novel tasks.
+This requires back-propagating errors through the solver steps. While normally
+the matrix operations involved would be costly, the small number of examples
+works to our advantage, by making use of the Woodbury identity. We propose both
+iterative and closed-form solvers, based on logistic regression and ridge
+regression components. Our methods achieve excellent performance on three
+few-shot learning benchmarks, showing competitive performance on Omniglot and
+surpassing all state-of-the-art alternatives on miniImageNet and CIFAR-100.},
+	url = {http://arxiv.org/pdf/1805.08136v1},
+	eprint = {1805.08136},
+	arxivid = {1805.08136},
+	archiveprefix = {arXiv},
+	month = {May},
+	year = {2018},
+	booktitle = {arXiv},
+	title = {{Meta-learning with differentiable closed-form solvers}},
+	author = {Luca Bertinetto and João F. Henriques and Philip H. S. Torr and Andrea Vedaldi}
+}
+

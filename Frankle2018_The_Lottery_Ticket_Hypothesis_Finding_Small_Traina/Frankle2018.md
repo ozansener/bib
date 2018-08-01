@@ -1,0 +1,1 @@
+Basic idea is there are many small subnetworks and the one which gets lucky (win the lottery) does all the job. They do this by first pruning and then putting initializaiton of the prunned network back and learning it. It suggests 1) it learns well 2) if you keep init and remove structure it fails 3) if you keep structure and remove init it fails.

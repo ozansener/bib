@@ -9,22 +9,22 @@
             "theory": {
                 "pinned": false,
                 "color": 117899,
-                "count": 6
+                "count": 12
             },
             "domain.adaptation": {
                 "pinned": false,
                 "color": "A2B86C",
-                "count": 2
+                "count": 4
             },
             "lifelong.learning": {
                 "pinned": false,
                 "color": "EBC844",
-                "count": 2
+                "count": 3
             },
             "robust.learning": {
                 "pinned": false,
                 "color": "ECAA38",
-                "count": 1
+                "count": 2
             },
             "stochastic.optimization": {
                 "pinned": false,
@@ -34,7 +34,7 @@
             "metric.learning": {
                 "pinned": false,
                 "color": "F16C20",
-                "count": 1
+                "count": 3
             },
             "adversarial": {
                 "pinned": false,
@@ -44,12 +44,12 @@
             "dataset": {
                 "pinned": false,
                 "color": "C02E1D",
-                "count": 1
+                "count": 2
             },
             "optimization": {
                 "pinned": false,
                 "color": "B31B2A",
-                "count": 2
+                "count": 4
             },
             "moo": {
                 "pinned": false,
@@ -59,12 +59,12 @@
             "wasserstein": {
                 "pinned": false,
                 "color": "8A214F",
-                "count": 1
+                "count": 2
             },
             "gan": {
                 "pinned": false,
                 "color": "65214F",
-                "count": 1
+                "count": 6
             },
             "optimal.transport": {
                 "pinned": false,
@@ -94,64 +94,139 @@
             "perceptual.loss": {
                 "pinned": false,
                 "color": "001738",
-                "count": 0
+                "count": 1
             },
             "multi.task": {
                 "pinned": false,
                 "color": "0D3C55",
-                "count": 0
+                "count": 4
             },
             "vision": {
                 "pinned": false,
                 "color": "0F5B78",
-                "count": 0
+                "count": 2
             },
             "affordances": {
                 "pinned": false,
                 "color": 117899,
-                "count": 0
+                "count": 1
             },
             "objects": {
                 "pinned": false,
                 "color": "1395BA",
-                "count": 0
+                "count": 1
             },
             "causality": {
                 "pinned": false,
                 "color": "5CA793",
-                "count": 0
+                "count": 1
             },
             "dimensionality.reduction": {
                 "pinned": false,
                 "color": "A2B86C",
-                "count": 0
+                "count": 1
             },
             "normalization": {
                 "pinned": false,
                 "color": "EBC844",
-                "count": 0
+                "count": 2
             },
             "deep.learning": {
                 "pinned": false,
                 "color": "ECAA38",
-                "count": 0
+                "count": 2
+            },
+            "clustering": {
+                "pinned": false,
+                "color": "EF8B2C",
+                "count": 2
+            },
+            "memory": {
+                "pinned": false,
+                "color": "F16C20",
+                "count": 1
+            },
+            "unsupervised.learning": {
+                "pinned": false,
+                "color": "D94E1F",
+                "count": 1
+            },
+            "data.science": {
+                "pinned": false,
+                "color": "C02E1D",
+                "count": 1
+            },
+            "simpsons.paradox": {
+                "pinned": false,
+                "color": "B31B2A",
+                "count": 1
+            },
+            "scene.understanding": {
+                "pinned": false,
+                "color": "AA1F4B",
+                "count": 1
+            },
+            "learning.to.learning": {
+                "pinned": false,
+                "color": "8A214F",
+                "count": 1
+            },
+            "block.sparse": {
+                "pinned": false,
+                "color": "65214F",
+                "count": 1
+            },
+            "systems": {
+                "pinned": false,
+                "color": "4C214F",
+                "count": 1
+            },
+            "statistics": {
+                "pinned": false,
+                "color": "32214F",
+                "count": 1
+            },
+            "reproducible.research": {
+                "pinned": false,
+                "color": "1F214F",
+                "count": 1
+            },
+            "bilevel.optimization": {
+                "pinned": false,
+                "color": "00214F",
+                "count": 1
+            },
+            "transfer.learning": {
+                "pinned": false,
+                "color": "001738",
+                "count": 1
+            },
+            "data.augmentation": {
+                "pinned": false,
+                "color": "000F24",
+                "count": 1
+            },
+            "explainining.DL": {
+                "pinned": false,
+                "color": "0D3C55",
+                "count": 1
             }
         },
         "reading": {
             "to.read.again": {
                 "pinned": false,
                 "color": "1395BA",
-                "count": 3
+                "count": 5
             },
             "done": {
                 "pinned": false,
                 "color": "5CA793",
-                "count": 15
+                "count": 45
             },
             "new": {
                 "pinned": false,
                 "color": "0D3C55",
-                "count": 11
+                "count": 6
             }
         }
     }

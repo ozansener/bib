@@ -1,0 +1,1 @@
+Basic problem is given bunch of classifiers from various source data, how do I combine them for a new test data. Idea is starting with collection of density models and solving some problem they define using DC. It seems like a relevant problem for sentiment/speech etc or when data is not available. Actually, an obvious baseline is robust optimization over multiple domains.

@@ -1,0 +1,19 @@
+{
+    "title": "GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep\n  Multitask Networks",
+    "authors": [
+        "Zhao Chen",
+        "Vijay Badrinarayanan",
+        "Chen-Yu Lee",
+        "Andrew Rabinovich"
+    ],
+    "year": "2017",
+    "date_added": "2018-08-01 11:45",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1711.02257v4",
+    "tags_content": [
+        "multi.task"
+    ]
+}

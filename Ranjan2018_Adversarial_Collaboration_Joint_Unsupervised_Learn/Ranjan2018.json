@@ -1,0 +1,22 @@
+{
+    "title": "Adversarial Collaboration: Joint Unsupervised Learning of Depth, Camera\n  Motion, Optical Flow and Motion Segmentation",
+    "authors": [
+        "Anurag Ranjan",
+        "Varun Jampani",
+        "Kihwan Kim",
+        "Deqing Sun",
+        "Jonas Wulff",
+        "Michael J. Black"
+    ],
+    "year": "2018",
+    "date_added": "2018-07-31 13:12",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1805.09806v1",
+    "tags_content": [
+        "vision",
+        "scene.understanding"
+    ]
+}

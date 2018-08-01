@@ -1,0 +1,1 @@
+Given a batch of paints as pairs and non-pairs, it minimizes $p(x_{ij^-} < x_{ij^+})$ using histogram as a semi-parametric model. It plots the histogram and compute/minimizes this probability. It is differentiable https://github.com/valerystrizh/pytorch-histogram-loss

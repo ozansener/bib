@@ -1,0 +1,20 @@
+{
+    "title": "SOSELETO: A Unified Approach to Transfer Learning and Training with\n  Noisy Labels",
+    "authors": [
+        "Or Litany",
+        "Daniel Freedman"
+    ],
+    "year": "2018",
+    "date_added": "2018-08-01 11:46",
+    "in": "arXiv",
+    "tags_reading": [
+        "to.read.again",
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1805.09622v1",
+    "tags_content": [
+        "optimization",
+        "bilevel.optimization",
+        "transfer.learning"
+    ]
+}

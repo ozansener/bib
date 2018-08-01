@@ -1,0 +1,1 @@
+Basic idea is considering the case where x->z->y and z is representation. They consider a space of y such that you take samples from it as in you sample tasks. Y is MxN matrix such that M data points and N tasks. The main result is under some smoothness constraints you need O(a+b\N) tasks to learn.

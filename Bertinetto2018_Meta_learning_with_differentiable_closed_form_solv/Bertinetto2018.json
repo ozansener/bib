@@ -1,0 +1,19 @@
+{
+    "title": "Meta-learning with differentiable closed-form solvers",
+    "authors": [
+        "Luca Bertinetto",
+        "Jo\u00e3o F. Henriques",
+        "Philip H. S. Torr",
+        "Andrea Vedaldi"
+    ],
+    "year": "2018",
+    "date_added": "2018-08-01 14:03",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1805.08136v1",
+    "tags_content": [
+        "lifelong.learning"
+    ]
+}

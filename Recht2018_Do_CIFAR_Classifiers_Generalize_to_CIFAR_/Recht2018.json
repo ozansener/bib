@@ -1,0 +1,21 @@
+{
+    "title": "Do CIFAR-10 Classifiers Generalize to CIFAR-10?",
+    "authors": [
+        "Benjamin Recht",
+        "Rebecca Roelofs",
+        "Ludwig Schmidt",
+        "Vaishaal Shankar"
+    ],
+    "year": "2018",
+    "date_added": "2018-07-31 13:24",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1806.00451v1",
+    "tags_content": [
+        "dataset",
+        "statistics",
+        "reproducible.research"
+    ]
+}

@@ -1,0 +1,1 @@
+Basic idea is using linear models and task covariance matrix as min sum_empirical risk + reg(W Task Cov W). Idea is task covariance should estimate relative test error (MT error/single task error) and this method learns a dataset embedding using graph neural network. Combines some simple ideas and seems to work fine

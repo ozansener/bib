@@ -1,0 +1,1 @@
+Basic idea is modelling the classifier as combination of domain indvariant and domain variant ones. Final feature is their multiplication. It enforces domain variant ones to be same for the domain and it learns how to estimate that parameter

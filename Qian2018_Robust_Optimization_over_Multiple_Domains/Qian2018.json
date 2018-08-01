@@ -1,0 +1,23 @@
+{
+    "title": "Robust Optimization over Multiple Domains",
+    "authors": [
+        "Qi Qian",
+        "Shenghuo Zhu",
+        "Jiasheng Tang",
+        "Rong Jin",
+        "Baigui Sun",
+        "Hao Li"
+    ],
+    "year": "2018",
+    "date_added": "2018-07-31 13:18",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1805.07588v1",
+    "tags_content": [
+        "robust.learning",
+        "theory",
+        "domain.adaptation"
+    ]
+}

@@ -1,0 +1,1 @@
+It tries to do feature learning (as in Kernel learning) such that $p(l(x1)\neq (x2))$ and $|x1-x2| < \delta \Phi(\delta, Kernel)$. Here, lower the bound, better the transfer since it will apply almost directly to transfer.

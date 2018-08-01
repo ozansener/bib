@@ -1,0 +1,18 @@
+{
+    "title": "Multi-task Kernel Learning Based on Probabilistic Lipschitzness",
+    "authors": [
+        "Anastasia Pentina",
+        "Shai Ben-David"
+    ],
+    "year": "2018",
+    "date_added": "2018-08-01 14:12",
+    "in": "Proceedings of Algorithmic Learning Theory",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/proceedings.mlr.press\/v83\/pentina18a.html",
+    "tags_content": [
+        "theory",
+        "multi.task"
+    ]
+}
