@@ -1,0 +1,22 @@
+{
+    "title": "Progress & Compress: A scalable framework for continual learning",
+    "authors": [
+        "Jonathan Schwarz",
+        "Jelena Luketina",
+        "Wojciech M. Czarnecki",
+        "Agnieszka Grabska-Barwinska",
+        "Yee Whye Teh",
+        "Razvan Pascanu",
+        "Raia Hadsell"
+    ],
+    "year": "2018",
+    "date_added": "2018-08-02 14:10",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1805.06370v2",
+    "tags_content": [
+        "lifelong.learning"
+    ]
+}

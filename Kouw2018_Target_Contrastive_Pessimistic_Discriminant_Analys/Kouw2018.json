@@ -1,0 +1,18 @@
+{
+    "title": "Target Contrastive Pessimistic Discriminant Analysis",
+    "authors": [
+        "Wouter M. Kouw",
+        "Marco Loog"
+    ],
+    "year": "2018",
+    "date_added": "2018-08-02 15:52",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1806.09463v1",
+    "tags_content": [
+        "domain.adaptation",
+        "robust.learning"
+    ]
+}

@@ -1,0 +1,1 @@
+Nice heuristics idea for continous learning. Idea is in the fay you learn a task and in night you distill it to KB and reset the task network. There are two networks and task one actually uses the KB via side connections. Distillation happins by combining distillation with EWC by not forgetting (EWC) and learning (distillation).

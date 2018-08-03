@@ -1,0 +1,19 @@
+{
+    "title": "Learning from Multiple Sources",
+    "authors": [
+        "Crammer, Koby",
+        "Kearns, Michael",
+        "Jennifer Wortman"
+    ],
+    "year": "2007",
+    "date_added": "2018-08-02 14:15",
+    "in": "Advances in Neural Information Processing Systems 19",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/papers.nips.cc\/paper\/2972-learning-from-multiple-sources.pdf",
+    "tags_content": [
+        "domain.adaptation",
+        "theory"
+    ]
+}

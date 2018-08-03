@@ -9,27 +9,27 @@
             "theory": {
                 "pinned": false,
                 "color": 117899,
-                "count": 12
+                "count": 15
             },
             "domain.adaptation": {
                 "pinned": false,
                 "color": "A2B86C",
-                "count": 4
+                "count": 8
             },
             "lifelong.learning": {
                 "pinned": false,
                 "color": "EBC844",
-                "count": 3
+                "count": 5
             },
             "robust.learning": {
                 "pinned": false,
                 "color": "ECAA38",
-                "count": 2
+                "count": 6
             },
             "stochastic.optimization": {
                 "pinned": false,
                 "color": "EF8B2C",
-                "count": 1
+                "count": 4
             },
             "metric.learning": {
                 "pinned": false,
@@ -44,12 +44,12 @@
             "dataset": {
                 "pinned": false,
                 "color": "C02E1D",
-                "count": 2
+                "count": 3
             },
             "optimization": {
                 "pinned": false,
                 "color": "B31B2A",
-                "count": 4
+                "count": 5
             },
             "moo": {
                 "pinned": false,
@@ -64,7 +64,7 @@
             "gan": {
                 "pinned": false,
                 "color": "65214F",
-                "count": 6
+                "count": 7
             },
             "optimal.transport": {
                 "pinned": false,
@@ -79,7 +79,7 @@
             "cognitive": {
                 "pinned": false,
                 "color": "1F214F",
-                "count": 1
+                "count": 3
             },
             "opinion": {
                 "pinned": false,
@@ -99,7 +99,7 @@
             "multi.task": {
                 "pinned": false,
                 "color": "0D3C55",
-                "count": 4
+                "count": 8
             },
             "vision": {
                 "pinned": false,
@@ -199,7 +199,7 @@
             "transfer.learning": {
                 "pinned": false,
                 "color": "001738",
-                "count": 1
+                "count": 2
             },
             "data.augmentation": {
                 "pinned": false,
@@ -210,23 +210,48 @@
                 "pinned": false,
                 "color": "0D3C55",
                 "count": 1
+            },
+            "random.search": {
+                "pinned": false,
+                "color": "0F5B78",
+                "count": 1
+            },
+            "dfo": {
+                "pinned": false,
+                "color": "1395BA",
+                "count": 1
+            },
+            "rl": {
+                "pinned": false,
+                "color": "5CA793",
+                "count": 1
             }
         },
         "reading": {
             "to.read.again": {
                 "pinned": false,
                 "color": "1395BA",
-                "count": 5
+                "count": 6
             },
             "done": {
                 "pinned": false,
                 "color": "5CA793",
-                "count": 45
+                "count": 56
             },
             "new": {
                 "pinned": false,
                 "color": "0D3C55",
-                "count": 6
+                "count": 7
+            },
+            "to.read.robust.rl": {
+                "pinned": false,
+                "color": 117899,
+                "count": 3
+            },
+            "to.read.other": {
+                "pinned": false,
+                "color": "EBC844",
+                "count": 1
             }
         }
     }

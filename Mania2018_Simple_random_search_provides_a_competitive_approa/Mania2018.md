@@ -1,0 +1,1 @@
+Gradient free optimization with just finite differences do well when a few tricks applied. Tricks are: 1) state space is normalized in an online fashion 2) Top $b < N$ gradients are utilized. 3) Gradients are normalized with variance of the rewards at each iteration

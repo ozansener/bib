@@ -1,0 +1,29 @@
+{
+    "title": "Overcoming catastrophic forgetting in neural networks",
+    "authors": [
+        "James Kirkpatrick",
+        "Razvan Pascanu",
+        "Neil Rabinowitz",
+        "Joel Veness",
+        "Guillaume Desjardins",
+        "Andrei A. Rusu",
+        "Kieran Milan",
+        "John Quan",
+        "Tiago Ramalho",
+        "Agnieszka Grabska-Barwinska",
+        "Demis Hassabis",
+        "Claudia Clopath",
+        "Dharshan Kumaran",
+        "Raia Hadsell"
+    ],
+    "year": "2016",
+    "date_added": "2018-08-03 13:18",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1612.00796v2",
+    "tags_content": [
+        "lifelong.learning"
+    ]
+}

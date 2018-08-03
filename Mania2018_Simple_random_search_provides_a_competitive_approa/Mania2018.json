@@ -1,0 +1,21 @@
+{
+    "title": "Simple random search provides a competitive approach to reinforcement\n  learning",
+    "authors": [
+        "Horia Mania",
+        "Aurelia Guy",
+        "Benjamin Recht"
+    ],
+    "year": "2018",
+    "date_added": "2018-08-02 15:55",
+    "in": "arXiv",
+    "tags_reading": [
+        "done",
+        "to.read.again"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1803.07055v1",
+    "tags_content": [
+        "random.search",
+        "dfo",
+        "rl"
+    ]
+}
