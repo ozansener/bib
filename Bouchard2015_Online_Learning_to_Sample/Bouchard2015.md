@@ -1,0 +1,1 @@
+Both SGD and AdaGrad has convergence rate function of norm of the gradient. Hence, a simple heuristic is using importance sampling such that at the end we will have minimum gradient norm. This paper simply learns this (the model g) as $g(x;\theta) = \nabla_\theta f(x;\theta)$

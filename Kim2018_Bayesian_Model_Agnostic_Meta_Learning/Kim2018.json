@@ -1,0 +1,23 @@
+{
+    "title": "Bayesian Model-Agnostic Meta-Learning",
+    "authors": [
+        "Taesup Kim",
+        "Jaesik Yoon",
+        "Ousmane Dia",
+        "Sungwoong Kim",
+        "Yoshua Bengio",
+        "Sungjin Ahn"
+    ],
+    "year": "2018",
+    "date_added": "2018-08-09 13:27",
+    "in": "arXiv",
+    "tags_reading": [
+        "new",
+        "to.read.other"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1806.03836v2",
+    "tags_content": [
+        "learning.to.learning",
+        "rl"
+    ]
+}

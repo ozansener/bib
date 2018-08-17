@@ -1,0 +1,23 @@
+{
+    "title": "Bilevel Programming for Hyperparameter Optimization and Meta-Learning",
+    "authors": [
+        "Luca Franceschi",
+        "Paolo Frasconi",
+        "Saverio Salzo",
+        "Riccardo Grazzi",
+        "Massimilano Pontil"
+    ],
+    "year": "2018",
+    "date_added": "2018-08-09 13:28",
+    "in": "arXiv",
+    "tags_reading": [
+        "new",
+        "to.read.rl.as.dfo",
+        "to.read.robust.rl"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1806.04910v2",
+    "tags_content": [
+        "lifelong.learning",
+        "optimization"
+    ]
+}

@@ -1,0 +1,1 @@
+Instead of Natural Evolution strategies in OpenAI paper, this one uses Canonical ES. Very similar to CMA-ES, basic idea is sample bunch of directions and set the next one as weighted mean whose weights are computed according to ranks.

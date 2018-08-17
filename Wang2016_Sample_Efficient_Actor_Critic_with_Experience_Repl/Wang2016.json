@@ -1,0 +1,24 @@
+{
+    "title": "Sample Efficient Actor-Critic with Experience Replay",
+    "authors": [
+        "Ziyu Wang",
+        "Victor Bapst",
+        "Nicolas Heess",
+        "Volodymyr Mnih",
+        "Remi Munos",
+        "Koray Kavukcuoglu",
+        "Nando de Freitas"
+    ],
+    "year": "2016",
+    "date_added": "2018-08-17 15:29",
+    "in": "arXiv",
+    "tags_reading": [
+        "new",
+        "to.read.rl.as.dfo"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1611.01224v2",
+    "tags_content": [
+        "rl",
+        "stochastic.optimization"
+    ]
+}

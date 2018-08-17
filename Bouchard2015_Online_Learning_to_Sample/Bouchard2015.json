@@ -1,0 +1,20 @@
+{
+    "title": "Online Learning to Sample",
+    "authors": [
+        "Guillaume Bouchard",
+        "Th\u00e9o Trouillon",
+        "Julien Perez",
+        "Adrien Gaidon"
+    ],
+    "year": "2015",
+    "date_added": "2018-08-09 14:20",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1506.09016v2",
+    "tags_content": [
+        "stochastic.optimization",
+        "variance.reduction"
+    ]
+}

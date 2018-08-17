@@ -1,0 +1,19 @@
+{
+    "title": "On a connection between importance sampling and the likelihood ratio policy gradient",
+    "authors": [
+        "Jie, Tang",
+        "Abbeel, Pieter"
+    ],
+    "year": "2010",
+    "date_added": "2018-08-17 15:25",
+    "in": "Advances in Neural Information Processing Systems",
+    "tags_reading": [
+        "new",
+        "to.read.rl.as.dfo"
+    ],
+    "url": "",
+    "tags_content": [
+        "rl",
+        "stochastic.optimization"
+    ]
+}

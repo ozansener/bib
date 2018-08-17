@@ -1,0 +1,23 @@
+{
+    "title": "Distributed Prioritized Experience Replay",
+    "authors": [
+        "Dan Horgan",
+        "John Quan",
+        "David Budden",
+        "Gabriel Barth-Maron",
+        "Matteo Hessel",
+        "Hado van Hasselt",
+        "David Silver"
+    ],
+    "year": "2018",
+    "date_added": "2018-08-09 14:47",
+    "in": "arXiv",
+    "tags_reading": [
+        "new",
+        "to.read.rl.intro"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1803.00933v1",
+    "tags_content": [
+        "rl"
+    ]
+}

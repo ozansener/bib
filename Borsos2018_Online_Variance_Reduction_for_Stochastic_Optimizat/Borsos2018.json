@@ -1,0 +1,21 @@
+{
+    "title": "Online Variance Reduction for Stochastic Optimization",
+    "authors": [
+        "Zal\u00e1n Borsos",
+        "Andreas Krause",
+        "Kfir Y. Levy"
+    ],
+    "year": "2018",
+    "date_added": "2018-08-08 17:45",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1802.04715v3",
+    "tags_content": [
+        "theory",
+        "rl",
+        "stochastic.optimization",
+        "variance.reduction"
+    ]
+}

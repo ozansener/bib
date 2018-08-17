@@ -1,0 +1,19 @@
+{
+    "title": "Accelerating Stochastic Gradient Descent using Predictive Variance Reduction",
+    "authors": [
+        "Johnson, Rie",
+        "Zhang, Tong"
+    ],
+    "year": "2013",
+    "date_added": "2018-08-09 13:48",
+    "in": "Advances in Neural Information Processing Systems 26",
+    "tags_reading": [
+        "new",
+        "to.read.rl.as.dfo"
+    ],
+    "url": "http:\/\/papers.nips.cc\/paper\/4937-accelerating-stochastic-gradient-descent-using-predictive-variance-reduction.pdf",
+    "tags_content": [
+        "stochastic.optimization",
+        "variance.reduction"
+    ]
+}

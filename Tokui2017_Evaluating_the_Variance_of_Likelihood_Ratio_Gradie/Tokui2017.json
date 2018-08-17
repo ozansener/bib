@@ -1,0 +1,19 @@
+{
+    "title": "Evaluating the Variance of Likelihood-Ratio Gradient Estimators",
+    "authors": [
+        "Seiya Tokui",
+        "Issei Sato"
+    ],
+    "year": "2017",
+    "date_added": "2018-08-17 15:36",
+    "in": "Proceedings of the 34th International Conference on Machine Learning",
+    "tags_reading": [
+        "new",
+        "to.read.rl.as.dfo"
+    ],
+    "url": "http:\/\/proceedings.mlr.press\/v70\/tokui17a.html",
+    "tags_content": [
+        "rl",
+        "stochastic.optimization"
+    ]
+}

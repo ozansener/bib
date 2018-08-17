@@ -9,17 +9,17 @@
             "theory": {
                 "pinned": false,
                 "color": 117899,
-                "count": 15
+                "count": 21
             },
             "domain.adaptation": {
                 "pinned": false,
                 "color": "A2B86C",
-                "count": 8
+                "count": 9
             },
             "lifelong.learning": {
                 "pinned": false,
                 "color": "EBC844",
-                "count": 5
+                "count": 8
             },
             "robust.learning": {
                 "pinned": false,
@@ -29,7 +29,7 @@
             "stochastic.optimization": {
                 "pinned": false,
                 "color": "EF8B2C",
-                "count": 4
+                "count": 21
             },
             "metric.learning": {
                 "pinned": false,
@@ -49,10 +49,10 @@
             "optimization": {
                 "pinned": false,
                 "color": "B31B2A",
-                "count": 5
+                "count": 7
             },
             "moo": {
-                "pinned": false,
+                "pinned": true,
                 "color": "AA1F4B",
                 "count": 2
             },
@@ -69,7 +69,7 @@
             "optimal.transport": {
                 "pinned": false,
                 "color": "4C214F",
-                "count": 1
+                "count": 4
             },
             "bio": {
                 "pinned": false,
@@ -89,7 +89,7 @@
             "arch.search": {
                 "pinned": false,
                 "color": "000F24",
-                "count": 4
+                "count": 6
             },
             "perceptual.loss": {
                 "pinned": false,
@@ -134,7 +134,7 @@
             "deep.learning": {
                 "pinned": false,
                 "color": "ECAA38",
-                "count": 2
+                "count": 3
             },
             "clustering": {
                 "pinned": false,
@@ -169,7 +169,7 @@
             "learning.to.learning": {
                 "pinned": false,
                 "color": "8A214F",
-                "count": 1
+                "count": 2
             },
             "block.sparse": {
                 "pinned": false,
@@ -199,7 +199,7 @@
             "transfer.learning": {
                 "pinned": false,
                 "color": "001738",
-                "count": 2
+                "count": 3
             },
             "data.augmentation": {
                 "pinned": false,
@@ -219,39 +219,84 @@
             "dfo": {
                 "pinned": false,
                 "color": "1395BA",
-                "count": 1
+                "count": 12
             },
             "rl": {
                 "pinned": false,
                 "color": "5CA793",
+                "count": 25
+            },
+            "structured.prediction": {
+                "pinned": false,
+                "color": "A2B86C",
                 "count": 1
+            },
+            "variance.reduction": {
+                "pinned": false,
+                "color": "EF8B2C",
+                "count": 5
+            },
+            "weakly.supervised": {
+                "pinned": false,
+                "color": "F16C20",
+                "count": 1
+            },
+            "control.theory": {
+                "pinned": false,
+                "color": "D94E1F",
+                "count": 2
+            },
+            "adversarial.examples": {
+                "pinned": false,
+                "color": "C02E1D",
+                "count": 1
+            },
+            "robotics": {
+                "pinned": false,
+                "color": "8A214F",
+                "count": 0
             }
         },
         "reading": {
             "to.read.again": {
                 "pinned": false,
                 "color": "1395BA",
-                "count": 6
+                "count": 5
             },
             "done": {
                 "pinned": false,
                 "color": "5CA793",
-                "count": 56
+                "count": 67
             },
             "new": {
                 "pinned": false,
                 "color": "0D3C55",
-                "count": 7
+                "count": 37
             },
             "to.read.robust.rl": {
                 "pinned": false,
                 "color": 117899,
-                "count": 3
+                "count": 4
             },
             "to.read.other": {
                 "pinned": false,
                 "color": "EBC844",
-                "count": 1
+                "count": 5
+            },
+            "to.read.rl.as.dfo": {
+                "pinned": false,
+                "color": "ECAA38",
+                "count": 21
+            },
+            "to.read.rl.intro": {
+                "pinned": false,
+                "color": "B31B2A",
+                "count": 3
+            },
+            "maybe.read": {
+                "pinned": false,
+                "color": "AA1F4B",
+                "count": 4
             }
         }
     }

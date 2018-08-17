@@ -1,0 +1,1 @@
+This is a random policy (and value function) for RL to do a learnable exploration. Each layer is a Gaussian layer and mean and variance are learned similar to re-parameterization trick with a single sample MCMC estimates.

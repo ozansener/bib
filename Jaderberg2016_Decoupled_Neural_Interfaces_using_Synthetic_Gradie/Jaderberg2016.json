@@ -1,0 +1,22 @@
+{
+    "title": "Decoupled Neural Interfaces using Synthetic Gradients",
+    "authors": [
+        "Max Jaderberg",
+        "Wojciech Marian Czarnecki",
+        "Simon Osindero",
+        "Oriol Vinyals",
+        "Alex Graves",
+        "David Silver",
+        "Koray Kavukcuoglu"
+    ],
+    "year": "2016",
+    "date_added": "2018-08-09 14:25",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1608.05343v2",
+    "tags_content": [
+        "deep.learning"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "title": "Back to Basics: Benchmarking Canonical Evolution Strategies for Playing\n  Atari",
+    "authors": [
+        "Patryk Chrabaszcz",
+        "Ilya Loshchilov",
+        "Frank Hutter"
+    ],
+    "year": "2018",
+    "date_added": "2018-08-08 17:42",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1802.08842v1",
+    "tags_content": [
+        "rl",
+        "dfo"
+    ]
+}

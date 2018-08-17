@@ -1,0 +1,23 @@
+{
+    "title": "The Mirage of Action-Dependent Baselines in Reinforcement Learning",
+    "authors": [
+        "George Tucker",
+        "Surya Bhupatiraju",
+        "Shixiang Gu",
+        "Richard E. Turner",
+        "Zoubin Ghahramani",
+        "Sergey Levine"
+    ],
+    "year": "2018",
+    "date_added": "2018-08-17 15:34",
+    "in": "arXiv",
+    "tags_reading": [
+        "new",
+        "to.read.rl.as.dfo"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1802.10031v2",
+    "tags_content": [
+        "rl",
+        "stochastic.optimization"
+    ]
+}

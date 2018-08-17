@@ -1,0 +1,19 @@
+{
+    "title": "Guided policy search",
+    "authors": [
+        "Levine, Sergey",
+        "Koltun, Vladlen"
+    ],
+    "year": "2013",
+    "date_added": "2018-08-17 15:25",
+    "in": "International Conference on Machine Learning",
+    "tags_reading": [
+        "new",
+        "to.read.rl.as.dfo"
+    ],
+    "url": "",
+    "tags_content": [
+        "rl",
+        "stochastic.optimization"
+    ]
+}

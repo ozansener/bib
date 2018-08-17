@@ -1,0 +1,26 @@
+{
+    "title": "Parameter Space Noise for Exploration",
+    "authors": [
+        "Matthias Plappert",
+        "Rein Houthooft",
+        "Prafulla Dhariwal",
+        "Szymon Sidor",
+        "Richard Y. Chen",
+        "Xi Chen",
+        "Tamim Asfour",
+        "Pieter Abbeel",
+        "Marcin Andrychowicz"
+    ],
+    "year": "2017",
+    "date_added": "2018-08-17 15:07",
+    "in": "arXiv",
+    "tags_reading": [
+        "new",
+        "to.read.rl.as.dfo"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1706.01905v2",
+    "tags_content": [
+        "rl",
+        "stochastic.optimization"
+    ]
+}
