@@ -1,0 +1,21 @@
+{
+    "title": "Importance mixing: Improving sample reuse in evolutionary policy search\n  methods",
+    "authors": [
+        "Alo\u00efs Pourchot",
+        "Nicolas Perrin",
+        "Olivier Sigaud"
+    ],
+    "year": "2018",
+    "date_added": "2018-08-21 11:13",
+    "in": "arXiv",
+    "tags_reading": [
+        "READ.NOW"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1808.05832v1",
+    "tags_content": [
+        "rl",
+        "dfo",
+        "importance.sampling",
+        "mcmc"
+    ]
+}

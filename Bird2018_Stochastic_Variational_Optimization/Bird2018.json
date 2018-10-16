@@ -1,0 +1,22 @@
+{
+    "title": "Stochastic Variational Optimization",
+    "authors": [
+        "Thomas Bird",
+        "Julius Kunze",
+        "David Barber"
+    ],
+    "year": "2018",
+    "date_added": "2018-09-17 11:35",
+    "in": "arXiv",
+    "tags_reading": [
+        "new",
+        "to.read.rl.as.dfo"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1809.04855v1",
+    "tags_content": [
+        "rl",
+        "dfo",
+        "optimization",
+        "stochastic.optimization"
+    ]
+}

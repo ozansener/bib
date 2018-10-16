@@ -1,0 +1,21 @@
+{
+    "title": "Policy Optimization via Importance Sampling",
+    "authors": [
+        "Alberto Maria Metelli",
+        "Matteo Papini",
+        "Francesco Faccio",
+        "Marcello Restelli"
+    ],
+    "year": "2018",
+    "date_added": "2018-09-18 15:28",
+    "in": "arXiv",
+    "tags_reading": [
+        "READ.NOW"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1809.06098v1",
+    "tags_content": [
+        "rl",
+        "importance.sampling",
+        "theory"
+    ]
+}

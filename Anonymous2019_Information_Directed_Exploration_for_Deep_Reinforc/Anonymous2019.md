@@ -1,0 +1,1 @@
+The paper is extending the frequentist IDS of Krause to RL. Main idea is using the probabilistic RL and using the variance of the estimated return function. Q function is also probabilistic by using Bootstrapped Q network.

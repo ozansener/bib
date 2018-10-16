@@ -1,0 +1,25 @@
+{
+    "title": "Hindsight Experience Replay",
+    "authors": [
+        "Marcin Andrychowicz",
+        "Filip Wolski",
+        "Alex Ray",
+        "Jonas Schneider",
+        "Rachel Fong",
+        "Peter Welinder",
+        "Bob McGrew",
+        "Josh Tobin",
+        "Pieter Abbeel",
+        "Wojciech Zaremba"
+    ],
+    "year": "2017",
+    "date_added": "2018-09-18 15:27",
+    "in": "arXiv",
+    "tags_reading": [
+        "to.read.rl.intro"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1707.01495v3",
+    "tags_content": [
+        "rl"
+    ]
+}

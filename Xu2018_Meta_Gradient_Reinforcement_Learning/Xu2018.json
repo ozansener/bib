@@ -1,0 +1,18 @@
+{
+    "title": "Meta-Gradient Reinforcement Learning",
+    "authors": [
+        "Zhongwen Xu",
+        "Hado van Hasselt",
+        "David Silver"
+    ],
+    "year": "2018",
+    "date_added": "2018-09-26 11:48",
+    "in": "arXiv",
+    "tags_reading": [
+        "to.read.rl.intro"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1805.09801v1",
+    "tags_content": [
+        "rl"
+    ]
+}

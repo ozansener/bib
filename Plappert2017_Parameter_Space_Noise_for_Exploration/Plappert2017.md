@@ -1,0 +1,1 @@
+I am here summarizing on-policy but off-policy is similar. In on-policy case, it uses a policy which has some randomness (Gaussian parametrized with some mu and sigma) and it just samples from this in each episode. Mu and sigma are also learned.

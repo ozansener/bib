@@ -1,0 +1,20 @@
+{
+    "title": "Efficient Statistics, in High Dimensions, from Truncated Samples",
+    "authors": [
+        "Constantinos Daskalakis",
+        "Themis Gouleakis",
+        "Christos Tzamos",
+        "Manolis Zampetakis"
+    ],
+    "year": "2018",
+    "date_added": "2018-09-17 11:48",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1809.03986v1",
+    "tags_content": [
+        "generative.models",
+        "theory"
+    ]
+}

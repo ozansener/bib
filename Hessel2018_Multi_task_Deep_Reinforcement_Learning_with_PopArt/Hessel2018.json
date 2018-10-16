@@ -1,0 +1,23 @@
+{
+    "title": "Multi-task Deep Reinforcement Learning with PopArt",
+    "authors": [
+        "Matteo Hessel",
+        "Hubert Soyer",
+        "Lasse Espeholt",
+        "Wojciech Czarnecki",
+        "Simon Schmitt",
+        "Hado van Hasselt"
+    ],
+    "year": "2018",
+    "date_added": "2018-09-17 11:47",
+    "in": "arXiv",
+    "tags_reading": [
+        "to.read.rl.as.dfo",
+        "to.read.rl.mtl"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1809.04474v1",
+    "tags_content": [
+        "rl",
+        "multi.task"
+    ]
+}

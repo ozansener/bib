@@ -1,0 +1,19 @@
+{
+    "title": "Importance Sampling for Minibatches",
+    "authors": [
+        "Dominik Csiba",
+        "Peter Richt\\'arik"
+    ],
+    "year": "2018",
+    "date_added": "2018-09-17 11:43",
+    "in": "",
+    "tags_reading": [
+        "maybe.read"
+    ],
+    "url": "http:\/\/jmlr.org\/papers\/v19\/16-241.html",
+    "tags_content": [
+        "optimization",
+        "importance.sampling",
+        "stochastic.optimization"
+    ]
+}

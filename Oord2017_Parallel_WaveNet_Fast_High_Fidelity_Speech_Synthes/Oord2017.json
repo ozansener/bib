@@ -1,0 +1,37 @@
+{
+    "title": "Parallel WaveNet: Fast High-Fidelity Speech Synthesis",
+    "authors": [
+        "Aaron van den Oord",
+        "Yazhe Li",
+        "Igor Babuschkin",
+        "Karen Simonyan",
+        "Oriol Vinyals",
+        "Koray Kavukcuoglu",
+        "George van den Driessche",
+        "Edward Lockhart",
+        "Luis C. Cobo",
+        "Florian Stimberg",
+        "Norman Casagrande",
+        "Dominik Grewe",
+        "Seb Noury",
+        "Sander Dieleman",
+        "Erich Elsen",
+        "Nal Kalchbrenner",
+        "Heiga Zen",
+        "Alex Graves",
+        "Helen King",
+        "Tom Walters",
+        "Dan Belov",
+        "Demis Hassabis"
+    ],
+    "year": "2017",
+    "date_added": "2018-10-09 18:15",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1711.10433v1",
+    "tags_content": [
+        "generative.models"
+    ]
+}
