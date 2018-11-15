@@ -1,0 +1,20 @@
+{
+    "title": "Exploration by Random Network Distillation",
+    "authors": [
+        "Yuri Burda",
+        "Harrison Edwards",
+        "Amos Storkey",
+        "Oleg Klimov"
+    ],
+    "year": "2018",
+    "date_added": "2018-11-08 15:20",
+    "in": "arXiv",
+    "tags_reading": [
+        "to.read.rl"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1810.12894v1",
+    "tags_content": [
+        "rl",
+        "exploration"
+    ]
+}

@@ -13,5 +13,8 @@
     "tags_reading": [
         "done"
     ],
-    "url": "http:\/\/arxiv.org\/pdf\/1802.07245v1"
+    "url": "http:\/\/arxiv.org\/pdf\/1802.07245v1",
+    "tags_content": [
+        "rl"
+    ]
 }

@@ -1,0 +1,19 @@
+{
+    "title": "Actor-Critic Policy Optimization in Partially Observable Multiagent\n  Environments",
+    "authors": [
+        "Sriram Srinivasan",
+        "Marc Lanctot",
+        "Vinicius Zambaldi",
+        "Julien Perolat",
+        "Karl Tuyls",
+        "Remi Munos",
+        "Michael Bowling"
+    ],
+    "year": "2018",
+    "date_added": "2018-10-29 12:25",
+    "in": "arXiv",
+    "tags_reading": [
+        "to.read.marl"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1810.09026v1"
+}

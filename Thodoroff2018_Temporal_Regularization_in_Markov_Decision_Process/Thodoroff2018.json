@@ -1,0 +1,20 @@
+{
+    "title": "Temporal Regularization in Markov Decision Process",
+    "authors": [
+        "Pierre Thodoroff",
+        "Audrey Durand",
+        "Joelle Pineau",
+        "Doina Precup"
+    ],
+    "year": "2018",
+    "date_added": "2018-11-08 16:12",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1811.00429v1",
+    "tags_content": [
+        "rl",
+        "theory"
+    ]
+}

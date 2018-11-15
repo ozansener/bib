@@ -1,0 +1,16 @@
+{
+    "title": "VIREL: A Variational Inference Framework for Reinforcement Learning",
+    "authors": [
+        "Matthew Fellows",
+        "Anuj Mahajan",
+        "Tim G. J. Rudner",
+        "Shimon Whiteson"
+    ],
+    "year": "2018",
+    "date_added": "2018-11-13 14:14",
+    "in": "arXiv",
+    "tags_reading": [
+        "to.read.rl"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1811.01132v2"
+}

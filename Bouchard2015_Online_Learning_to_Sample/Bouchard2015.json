@@ -15,6 +15,7 @@
     "url": "http:\/\/arxiv.org\/pdf\/1506.09016v2",
     "tags_content": [
         "stochastic.optimization",
-        "variance.reduction"
+        "variance.reduction",
+        "importance.sampling"
     ]
 }

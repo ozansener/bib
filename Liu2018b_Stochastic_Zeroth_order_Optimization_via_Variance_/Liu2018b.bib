@@ -1,0 +1,29 @@
+@article { Liu2018b,
+	abstract = {Derivative-free optimization has become an important technique used in
+machine learning for optimizing black-box models. To conduct updates without
+explicitly computing gradient, most current approaches iteratively sample a
+random search direction from Gaussian distribution and compute the estimated
+gradient along that direction. However, due to the variance in the search
+direction, the convergence rates and query complexities of existing methods
+suffer from a factor of $d$, where $d$ is the problem dimension. In this paper,
+we introduce a novel Stochastic Zeroth-order method with Variance Reduction
+under Gaussian smoothing (SZVR-G) and establish the complexity for optimizing
+non-convex problems. With variance reduction on both sample space and search
+space, the complexity of our algorithm is sublinear to $d$ and is strictly
+better than current approaches, in both smooth and non-smooth cases. Moreover,
+we extend the proposed method to the mini-batch version. Our experimental
+results demonstrate the superior performance of the proposed method over
+existing derivative-free optimization techniques. Furthermore, we successfully
+apply our method to conduct a universal black-box attack to deep neural
+networks and present some interesting results.},
+	url = {http://arxiv.org/pdf/1805.11811v3},
+	eprint = {1805.11811},
+	arxivid = {1805.11811},
+	archiveprefix = {arXiv},
+	month = {May},
+	year = {2018},
+	booktitle = {arXiv},
+	title = {{Stochastic Zeroth-order Optimization via Variance Reduction method}},
+	author = {Liu Liu and Minhao Cheng and Cho-Jui Hsieh and Dacheng Tao}
+}
+

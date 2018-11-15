@@ -1,0 +1,25 @@
+@article { Daley2018,
+	abstract = {Eligibility traces are an effective technique to accelerate reinforcement
+learning by smoothly assigning credit to recently visited states. However,
+their online implementation is incompatible with modern deep reinforcement
+learning algorithms, which rely heavily on i.i.d. training data and offline
+learning. We utilize an efficient, recursive method for computing
+{\lambda}-returns offline that can provide the benefits of eligibility traces
+to any value-estimation or actor-critic method. We demonstrate how our method
+can be combined with DQN, DRQN, and A3C to greatly enhance the learning speed
+of these algorithms when playing Atari 2600 games, even under partial
+observability. Our results indicate several-fold improvements to sample
+efficiency on Seaquest and Q*bert. We expect similar results for other
+algorithms and domains not considered here, including those with continuous
+actions.},
+	url = {http://arxiv.org/pdf/1810.09967v1},
+	eprint = {1810.09967},
+	arxivid = {1810.09967},
+	archiveprefix = {arXiv},
+	month = {Oct},
+	year = {2018},
+	booktitle = {arXiv},
+	title = {{Efficient Eligibility Traces for Deep Reinforcement Learning}},
+	author = {Brett Daley and Christopher Amato}
+}
+

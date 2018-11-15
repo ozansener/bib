@@ -12,5 +12,9 @@
     "tags_reading": [
         "done"
     ],
-    "url": "http:\/\/arxiv.org\/pdf\/1809.06570v1"
+    "url": "http:\/\/arxiv.org\/pdf\/1809.06570v1",
+    "tags_content": [
+        "dfo",
+        "rl"
+    ]
 }

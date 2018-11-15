@@ -1,0 +1,20 @@
+{
+    "title": "Adversarially Robust Generalization Requires More Data",
+    "authors": [
+        "Ludwig Schmidt",
+        "Shibani Santurkar",
+        "Dimitris Tsipras",
+        "Kunal Talwar",
+        "Aleksander M\u0105dry"
+    ],
+    "year": "2018",
+    "date_added": "2018-11-08 15:56",
+    "in": "arXiv",
+    "tags_reading": [
+        "keep.pointer"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1804.11285v2",
+    "tags_content": [
+        "robust.learning"
+    ]
+}
