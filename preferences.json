@@ -4,12 +4,12 @@
             "importance.sampling": {
                 "pinned": false,
                 "color": "0F5B78",
-                "count": 7
+                "count": 8
             },
             "theory": {
                 "pinned": false,
                 "color": 117899,
-                "count": 24
+                "count": 27
             },
             "domain.adaptation": {
                 "pinned": false,
@@ -44,7 +44,7 @@
             "dataset": {
                 "pinned": false,
                 "color": "C02E1D",
-                "count": 3
+                "count": 4
             },
             "optimization": {
                 "pinned": false,
@@ -219,12 +219,12 @@
             "dfo": {
                 "pinned": false,
                 "color": "1395BA",
-                "count": 9
+                "count": 14
             },
             "rl": {
                 "pinned": false,
                 "color": "5CA793",
-                "count": 32
+                "count": 38
             },
             "structured.prediction": {
                 "pinned": false,
@@ -234,7 +234,7 @@
             "variance.reduction": {
                 "pinned": false,
                 "color": "EF8B2C",
-                "count": 2
+                "count": 4
             },
             "weakly.supervised": {
                 "pinned": false,
@@ -301,47 +301,57 @@
                 "color": "EBC844",
                 "count": 1
             },
-            "counter.factual": {
-                "pinned": false,
-                "color": "EF8B2C",
-                "count": 1
-            },
             "marl": {
                 "pinned": false,
                 "color": "D94E1F",
-                "count": 3
+                "count": 2
+            },
+            "myth.buster": {
+                "pinned": false,
+                "color": "4C214F",
+                "count": 1
+            },
+            "graphical.models": {
+                "pinned": false,
+                "color": "32214F",
+                "count": 1
+            },
+            "sketching": {
+                "pinned": false,
+                "color": "00214F",
+                "count": 1
+            },
+            "diversity": {
+                "pinned": false,
+                "color": "EF8B2C",
+                "count": 1
             }
         },
         "reading": {
             "to.read.again": {
                 "pinned": false,
                 "color": "1395BA",
-                "count": 5
+                "count": 3
             },
             "done": {
                 "pinned": false,
                 "color": "5CA793",
-                "count": 75
-            },
-            "new": {
-                "pinned": false,
-                "color": "0D3C55",
-                "count": 4
+                "count": 88
             },
             "to.read.other": {
                 "pinned": false,
                 "color": "EBC844",
-                "count": 4
+                "count": 7
             },
             "READ.NOW": {
                 "pinned": false,
                 "color": "00214F",
-                "count": 29
+                "count": 47
             },
             "to.read.marl": {
                 "pinned": false,
                 "color": "0D3C55",
-                "count": 7
+                "count": 9
             },
             "to.read.robustness": {
                 "pinned": false,
@@ -351,17 +361,12 @@
             "to.read.l2l": {
                 "pinned": false,
                 "color": "F16C20",
-                "count": 1
+                "count": 5
             },
             "keep.pointer": {
                 "pinned": false,
                 "color": "C02E1D",
-                "count": 9
-            },
-            "future.reading.curiousity": {
-                "pinned": false,
-                "color": "B31B2A",
-                "count": 1
+                "count": 20
             },
             "future.reading.l2l": {
                 "pinned": false,
@@ -378,11 +383,6 @@
                 "color": "32214F",
                 "count": 1
             },
-            "future.reading.theory": {
-                "pinned": false,
-                "color": 117899,
-                "count": 1
-            },
             "future.reading.other": {
                 "pinned": false,
                 "color": "AA1F4B",
@@ -391,12 +391,12 @@
             "to.read.rl": {
                 "pinned": false,
                 "color": "001738",
-                "count": 10
+                "count": 18
             },
             "to.read.theory": {
                 "pinned": false,
                 "color": "ECAA38",
-                "count": 2
+                "count": 5
             },
             "future.reading.QML": {
                 "pinned": false,
@@ -411,7 +411,27 @@
             "1st": {
                 "pinned": false,
                 "color": "65214F",
-                "count": 10
+                "count": 12
+            },
+            "to.read.opt": {
+                "pinned": false,
+                "color": "1F214F",
+                "count": 1
+            },
+            "READ.SOMETIME": {
+                "pinned": false,
+                "color": "001738",
+                "count": 3
+            },
+            "SERIOUSLY.NOW": {
+                "pinned": false,
+                "color": "0D3C55",
+                "count": 2
+            },
+            "new": {
+                "pinned": false,
+                "color": 117899,
+                "count": 11
             }
         }
     }

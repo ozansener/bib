@@ -9,8 +9,12 @@
     "date_added": "2018-11-13 14:12",
     "in": "arXiv",
     "tags_reading": [
-        "READ.NOW",
-        "1st"
+        "done"
     ],
-    "url": "http:\/\/arxiv.org\/pdf\/1809.03054v2"
+    "url": "http:\/\/arxiv.org\/pdf\/1809.03054v2",
+    "tags_content": [
+        "dfo",
+        "variance.reduction",
+        "sketching"
+    ]
 }

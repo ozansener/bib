@@ -9,7 +9,12 @@
     "date_added": "2018-11-14 15:02",
     "in": "arXiv",
     "tags_reading": [
-        "1st"
+        "done"
     ],
-    "url": "http:\/\/arxiv.org\/pdf\/1811.04624v1"
+    "url": "http:\/\/arxiv.org\/pdf\/1811.04624v1",
+    "tags_content": [
+        "rl",
+        "dfo",
+        "importance.sampling"
+    ]
 }

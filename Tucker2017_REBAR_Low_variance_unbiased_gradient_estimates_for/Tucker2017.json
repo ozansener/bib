@@ -11,8 +11,11 @@
     "date_added": "2018-09-26 11:47",
     "in": "arXiv",
     "tags_reading": [
-        "READ.NOW",
-        "1st"
+        "done"
     ],
-    "url": "http:\/\/arxiv.org\/pdf\/1703.07370v4"
+    "url": "http:\/\/arxiv.org\/pdf\/1703.07370v4",
+    "tags_content": [
+        "graphical.models",
+        "variance.reduction"
+    ]
 }
