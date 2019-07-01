@@ -1,0 +1,28 @@
+@article { Yin2018,
+	abstract = {To backpropagate the gradients through discrete stochastic layers, we encode
+the true gradients into a multiplication between random noises and the
+difference of the same function of two different sets of discrete latent
+variables, which are correlated with these random noises. The expectations of
+that multiplication over iterations are zeros combined with spikes from time to
+time. To modulate the frequencies, amplitudes, and signs of the spikes to
+capture the temporal evolution of the true gradients, we propose the
+augment-REINFORCE-merge (ARM) estimator that combines data augmentation, the
+score-function estimator, permutation of the indices of latent variables, and
+variance reduction for Monte Carlo integration using common random numbers. The
+ARM estimator provides low-variance and unbiased gradient estimates for the
+parameters of discrete distributions, leading to state-of-the-art performance
+in both auto-encoding variational Bayes and maximum likelihood inference, for
+discrete latent variable models with one or multiple discrete stochastic
+layers.},
+	url = {http://arxiv.org/pdf/1807.11143v1},
+	eprint = {1807.11143},
+	arxivid = {1807.11143},
+	archiveprefix = {arXiv},
+	month = {Jul},
+	year = {2018},
+	booktitle = {arXiv},
+	title = {{ARM: Augment-REINFORCE-Merge Gradient for Discrete Latent Variable
+  Models}},
+	author = {Mingzhang Yin and Mingyuan Zhou}
+}
+

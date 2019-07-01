@@ -1,0 +1,29 @@
+@article { Kirschner2019,
+	abstract = {Bayesian optimization is known to be difficult to scale to high dimensions,
+because the acquisition step requires solving a non-convex optimization problem
+in the same search space. In order to scale the method and keep its benefits,
+we propose an algorithm (LineBO) that restricts the problem to a sequence of
+iteratively chosen one-dimensional sub-problems. We show that our algorithm
+converges globally and obtains a fast local rate when the function is strongly
+convex. Further, if the objective has an invariant subspace, our method
+automatically adapts to the effective dimension without changing the algorithm.
+Our method scales well to high dimensions and makes use of a global Gaussian
+process model. When combined with the SafeOpt algorithm to solve the
+sub-problems, we obtain the first safe Bayesian optimization algorithm with
+theoretical guarantees applicable in high-dimensional settings. We evaluate our
+method on multiple synthetic benchmarks, where we obtain competitive
+performance. Further, we deploy our algorithm to optimize the beam intensity of
+the Swiss Free Electron Laser with up to 40 parameters while satisfying safe
+operation constraints.},
+	url = {http://arxiv.org/pdf/1902.03229v1},
+	eprint = {1902.03229},
+	arxivid = {1902.03229},
+	archiveprefix = {arXiv},
+	month = {Feb},
+	year = {2019},
+	booktitle = {arXiv},
+	title = {{Adaptive and Safe Bayesian Optimization in High Dimensions via
+  One-Dimensional Subspaces}},
+	author = {Johannes Kirschner and Mojmír Mutný and Nicole Hiller and Rasmus Ischebeck and Andreas Krause}
+}
+

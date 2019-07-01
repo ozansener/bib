@@ -1,0 +1,21 @@
+{
+    "title": "Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss",
+    "authors": [
+        "Kaidi Cao",
+        "Colin Wei",
+        "Adrien Gaidon",
+        "Nikos Arechiga",
+        "Tengyu Ma"
+    ],
+    "year": "2019",
+    "date_added": "2019-06-27 12:12",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1906.07413v1",
+    "tags_content": [
+        "theory",
+        "supervised.learning"
+    ]
+}

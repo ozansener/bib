@@ -1,0 +1,20 @@
+{
+    "title": "Online continual learning with no task boundaries",
+    "authors": [
+        "Rahaf Aljundi",
+        "Min Lin",
+        "Baptiste Goujaud",
+        "Yoshua Bengio"
+    ],
+    "year": "2019",
+    "date_added": "2019-04-12 10:45",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1903.08671v2",
+    "tags_content": [
+        "online.learning",
+        "lifelong.learning"
+    ]
+}

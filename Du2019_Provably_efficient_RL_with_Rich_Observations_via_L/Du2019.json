@@ -1,0 +1,18 @@
+{
+    "title": "Provably efficient RL with Rich Observations via Latent State Decoding",
+    "authors": [
+        "Simon S. Du",
+        "Akshay Krishnamurthy",
+        "Nan Jiang",
+        "Alekh Agarwal",
+        "Miroslav Dud\u00edk",
+        "John Langford"
+    ],
+    "year": "2019",
+    "date_added": "2019-01-28 16:05",
+    "in": "arXiv",
+    "tags_reading": [
+        "to.read.rl"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1901.09018v1"
+}

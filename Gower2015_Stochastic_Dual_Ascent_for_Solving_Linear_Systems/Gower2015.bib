@@ -1,0 +1,36 @@
+@article { Gower2015,
+	abstract = {We develop a new randomized iterative algorithm---stochastic dual ascent
+(SDA)---for finding the projection of a given vector onto the solution space of
+a linear system. The method is dual in nature: with the dual being a
+non-strongly concave quadratic maximization problem without constraints. In
+each iteration of SDA, a dual variable is updated by a carefully chosen point
+in a subspace spanned by the columns of a random matrix drawn independently
+from a fixed distribution. The distribution plays the role of a parameter of
+the method. Our complexity results hold for a wide family of distributions of
+random matrices, which opens the possibility to fine-tune the stochasticity of
+the method to particular applications. We prove that primal iterates associated
+with the dual process converge to the projection exponentially fast in
+expectation, and give a formula and an insightful lower bound for the
+convergence rate. We also prove that the same rate applies to dual function
+values, primal function values and the duality gap. Unlike traditional
+iterative methods, SDA converges under no additional assumptions on the system
+(e.g., rank, diagonal dominance) beyond consistency. In fact, our lower bound
+improves as the rank of the system matrix drops. Many existing randomized
+methods for linear systems arise as special cases of SDA, including randomized
+Kaczmarz, randomized Newton, randomized coordinate descent, Gaussian descent,
+and their variants. In special cases where our method specializes to a known
+algorithm, we either recover the best known rates, or improve upon them.
+Finally, we show that the framework can be applied to the distributed average
+consensus problem to obtain an array of new algorithms. The randomized gossip
+algorithm arises as a special case.},
+	url = {http://arxiv.org/pdf/1512.06890v2},
+	eprint = {1512.06890},
+	arxivid = {1512.06890},
+	archiveprefix = {arXiv},
+	month = {Dec},
+	year = {2015},
+	booktitle = {arXiv},
+	title = {{Stochastic Dual Ascent for Solving Linear Systems}},
+	author = {Robert Mansel Gower and Peter Richtarik}
+}
+

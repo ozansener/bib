@@ -1,0 +1,18 @@
+{
+    "title": "Interpolated Policy Gradient: Merging On-Policy and Off-Policy Gradient\n  Estimation for Deep Reinforcement Learning",
+    "authors": [
+        "Shixiang Gu",
+        "Timothy Lillicrap",
+        "Zoubin Ghahramani",
+        "Richard E. Turner",
+        "Bernhard Sch\u00f6lkopf",
+        "Sergey Levine"
+    ],
+    "year": "2017",
+    "date_added": "2018-11-20 15:36",
+    "in": "arXiv",
+    "tags_reading": [
+        "to.read.rl"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1706.00387v1"
+}

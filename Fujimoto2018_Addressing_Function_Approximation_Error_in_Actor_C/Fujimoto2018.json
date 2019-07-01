@@ -1,0 +1,15 @@
+{
+    "title": "Addressing Function Approximation Error in Actor-Critic Methods",
+    "authors": [
+        "Scott Fujimoto",
+        "Herke van Hoof",
+        "David Meger"
+    ],
+    "year": "2018",
+    "date_added": "2019-05-29 15:50",
+    "in": "arXiv",
+    "tags_reading": [
+        "to.read.rl"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1802.09477v3"
+}

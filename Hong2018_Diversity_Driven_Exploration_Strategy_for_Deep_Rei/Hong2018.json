@@ -1,0 +1,21 @@
+{
+    "title": "Diversity-Driven Exploration Strategy for Deep Reinforcement Learning",
+    "authors": [
+        "Zhang-Wei Hong",
+        "Tzu-Yun Shann",
+        "Shih-Yang Su",
+        "Yi-Hsiang Chang",
+        "Chun-Yi Lee"
+    ],
+    "year": "2018",
+    "date_added": "2019-02-03 16:20",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1802.04564v2",
+    "tags_content": [
+        "rl",
+        "diversity"
+    ]
+}

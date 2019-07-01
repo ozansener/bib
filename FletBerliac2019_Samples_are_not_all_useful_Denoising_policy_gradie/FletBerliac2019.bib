@@ -1,0 +1,32 @@
+@article { FletBerliac2019,
+	abstract = {Policy gradient algorithms in reinforcement learning rely on efficiently
+sampling an environment. Most sampling procedures are based solely on sampling
+the agent's policy. However, other measures made available through these
+algorithms could be used in order to improve the sampling prior to each policy
+update. Following this line of thoughts, we propose a method where a transition
+is used in the gradient update if it meets a particular criterion, and rejected
+otherwise. This criterion is the \textit{fraction of variance explained}
+($\mathcal{V}^{ex}$), a measure of the discrepancy between a model and actual
+samples. $\mathcal{V}^{ex}$ can be used to evaluate the impact each transition
+will have on the learning. This criterion refines sampling and improves the
+policy gradient algorithm. In this paper: (1) We introduce and explore
+$\mathcal{V}^{ex}$, the selection criterion used to improve the sampling
+procedure. (2) We conduct experiments across a variety of standard benchmark
+environments, including continuous control problems. Our results show better
+performance than if we did not use the $\mathcal{V}^{ex}$ criterion for the
+policy gradient update. (3) We investigate why $\mathcal{V}^{ex}$ gives a good
+evaluation for the selection of samples that will positively impact the
+learning. (4) We show how this criterion can be interpreted as a dynamic way to
+adjust the ratio between exploration and exploitation.},
+	url = {http://arxiv.org/pdf/1904.04025v1},
+	eprint = {1904.04025},
+	arxivid = {1904.04025},
+	archiveprefix = {arXiv},
+	month = {Apr},
+	year = {2019},
+	booktitle = {arXiv},
+	title = {{Samples are not all useful: Denoising policy gradient updates using
+  variance}},
+	author = {Yannis Flet-Berliac and Philippe Preux}
+}
+

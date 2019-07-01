@@ -1,0 +1,28 @@
+@article { Wu2019,
+	abstract = {Bayesian optimization is popular for optimizing time-consuming black-box
+objectives. Nonetheless, for hyperparameter tuning in deep neural networks, the
+time required to evaluate the validation error for even a few hyperparameter
+settings remains a bottleneck. Multi-fidelity optimization promises relief
+using cheaper proxies to such objectives --- for example, validation error for
+a network trained using a subset of the training points or fewer iterations
+than required for convergence. We propose a highly flexible and practical
+approach to multi-fidelity Bayesian optimization, focused on efficiently
+optimizing hyperparameters for iteratively trained supervised learning models.
+We introduce a new acquisition function, the trace-aware knowledge-gradient,
+which efficiently leverages both multiple continuous fidelity controls and
+trace observations --- values of the objective at a sequence of fidelities,
+available when varying fidelity using training iterations. We provide a
+provably convergent method for optimizing our acquisition function and show it
+outperforms state-of-the-art alternatives for hyperparameter tuning of deep
+neural networks and large-scale kernel learning.},
+	url = {http://arxiv.org/pdf/1903.04703v1},
+	eprint = {1903.04703},
+	arxivid = {1903.04703},
+	archiveprefix = {arXiv},
+	month = {Mar},
+	year = {2019},
+	booktitle = {arXiv},
+	title = {{Practical Multi-fidelity Bayesian Optimization for Hyperparameter Tuning}},
+	author = {Jian Wu and Saul Toscano-Palmerin and Peter I. Frazier and Andrew Gordon Wilson}
+}
+

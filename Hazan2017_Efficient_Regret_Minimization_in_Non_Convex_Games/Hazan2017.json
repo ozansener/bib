@@ -1,0 +1,15 @@
+{
+    "title": "Efficient Regret Minimization in Non-Convex Games",
+    "authors": [
+        "Elad Hazan",
+        "Karan Singh",
+        "Cyril Zhang"
+    ],
+    "year": "2017",
+    "date_added": "2018-12-26 08:08",
+    "in": "Proceedings of the 34th International Conference on Machine Learning",
+    "tags_reading": [
+        "to.read.rl"
+    ],
+    "url": "http:\/\/proceedings.mlr.press\/v70\/hazan17a.html"
+}

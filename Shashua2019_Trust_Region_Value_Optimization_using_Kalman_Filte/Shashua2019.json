@@ -1,0 +1,18 @@
+{
+    "title": "Trust Region Value Optimization using Kalman Filtering",
+    "authors": [
+        "Shirli Di-Castro Shashua",
+        "Shie Mannor"
+    ],
+    "year": "2019",
+    "date_added": "2019-01-28 16:14",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1901.07860v1",
+    "tags_content": [
+        "rl",
+        "stochastic.optimization"
+    ]
+}

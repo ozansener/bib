@@ -1,0 +1,31 @@
+@article { Saremi2019,
+	abstract = {We formulate a novel framework that unifies kernel density estimation and
+empirical Bayes, where we address a broad set of problems in unsupervised
+learning with a geometric interpretation rooted in the concentration of measure
+phenomenon. We start by energy estimation based on a denoising objective which
+recovers the original/clean data X from its measured/noisy version Y with
+empirical Bayes least squares estimator. The setup is rooted in kernel density
+estimation, but the log-pdf in Y is parametrized with a neural network, and
+crucially, the learning objective is derived for any level of noise/kernel
+bandwidth. Learning is efficient with double backpropagation and stochastic
+gradient descent. An elegant physical picture emerges of an interacting system
+of high-dimensional spheres around each data point, together with a
+globally-defined probability flow field. The picture is powerful: it leads to a
+novel sampling algorithm, a new notion of associative memory, and it is
+instrumental in designing experiments. We start with extreme denoising
+experiments. Walk-jump sampling is defined by Langevin MCMC walks in Y, along
+with asynchronous empirical Bayes jumps to X. Robbins associative memory is
+defined by a deterministic flow to attractors of the learned probability flow
+field. Finally, we observed the emergence of remarkably rich creative modes in
+the regime of highly overlapping spheres.},
+	url = {http://arxiv.org/pdf/1903.02334v1},
+	eprint = {1903.02334},
+	arxivid = {1903.02334},
+	archiveprefix = {arXiv},
+	month = {Mar},
+	year = {2019},
+	booktitle = {arXiv},
+	title = {{Neural Empirical Bayes}},
+	author = {Saeed Saremi and Aapo Hyvarinen}
+}
+

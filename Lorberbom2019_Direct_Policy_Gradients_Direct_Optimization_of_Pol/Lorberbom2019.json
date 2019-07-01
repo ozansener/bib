@@ -1,0 +1,17 @@
+{
+    "title": "Direct Policy Gradients: Direct Optimization of Policies in Discrete\n  Action Spaces",
+    "authors": [
+        "Guy Lorberbom",
+        "Chris J. Maddison",
+        "Nicolas Heess",
+        "Tamir Hazan",
+        "Daniel Tarlow"
+    ],
+    "year": "2019",
+    "date_added": "2019-06-27 14:07",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1906.06062v1"
+}

@@ -1,0 +1,17 @@
+{
+    "title": "Sample Complexity of Estimating the Policy Gradient for Nearly\n  Deterministic Dynamical Systems",
+    "authors": [
+        "Osbert Bastani"
+    ],
+    "year": "2019",
+    "date_added": "2019-01-25 15:40",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1901.08562v1",
+    "tags_content": [
+        "rl",
+        "dfo"
+    ]
+}

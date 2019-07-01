@@ -1,0 +1,20 @@
+{
+    "title": "Hyperbolic Image Embeddings",
+    "authors": [
+        "Valentin Khrulkov",
+        "Leyla Mirvakhabova",
+        "Evgeniya Ustinova",
+        "Ivan Oseledets",
+        "Victor Lempitsky"
+    ],
+    "year": "2019",
+    "date_added": "2019-04-10 12:01",
+    "in": "arXiv",
+    "tags_reading": [
+        "to.read.structured_prediction"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1904.02239v1",
+    "tags_content": [
+        "metric.learning"
+    ]
+}

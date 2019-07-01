@@ -1,0 +1,21 @@
+{
+    "title": "The Value Function Polytope in Reinforcement Learning",
+    "authors": [
+        "Robert Dadashi",
+        "Adrien Ali Ta\u00efga",
+        "Nicolas Le Roux",
+        "Dale Schuurmans",
+        "Marc G. Bellemare"
+    ],
+    "year": "2019",
+    "date_added": "2019-02-03 16:20",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1901.11524v1",
+    "tags_content": [
+        "rl",
+        "theory"
+    ]
+}
