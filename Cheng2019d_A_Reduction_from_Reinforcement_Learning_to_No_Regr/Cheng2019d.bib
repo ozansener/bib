@@ -1,0 +1,30 @@
+@article { Cheng2019d,
+	abstract = {We present a reduction from reinforcement learning (RL) to no-regret online
+learning based on the saddle-point formulation of RL, by which "any" online
+algorithm with sublinear regret can generate policies with provable performance
+guarantees. This new perspective decouples the RL problem into two parts:
+regret minimization and function approximation. The first part admits a
+standard online-learning analysis, and the second part can be quantified
+independently of the learning algorithm. Therefore, the proposed reduction can
+be used as a tool to systematically design new RL algorithms. We demonstrate
+this idea by devising a simple RL algorithm based on mirror descent and the
+generative-model oracle. For any $\gamma$-discounted tabular RL problem, with
+probability at least $1-\delta$, it learns an $\epsilon$-optimal policy using
+at most
+$\tilde{O}\left(\frac{|\mathcal{S}||\mathcal{A}|\log(\frac{1}{\delta})}{(1-\gamma)^4\epsilon^2}\right)$
+samples. Furthermore, this algorithm admits a direct extension to linearly
+parameterized function approximators for large-scale applications, with
+computation and sample complexities independent of
+$|\mathcal{S}|$,$|\mathcal{A}|$, though at the cost of potential approximation
+bias.},
+	url = {http://arxiv.org/pdf/1911.05873v1},
+	eprint = {1911.05873},
+	arxivid = {1911.05873},
+	archiveprefix = {arXiv},
+	month = {Nov},
+	year = {2019},
+	booktitle = {arXiv},
+	title = {{A Reduction from Reinforcement Learning to No-Regret Online Learning}},
+	author = {Ching-An Cheng and Remi Tachet des Combes and Byron Boots and Geoff Gordon}
+}
+

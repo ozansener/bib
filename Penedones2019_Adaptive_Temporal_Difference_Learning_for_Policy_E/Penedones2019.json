@@ -1,0 +1,20 @@
+{
+    "title": "Adaptive Temporal-Difference Learning for Policy Evaluation with\n  Per-State Uncertainty Estimates",
+    "authors": [
+        "Hugo Penedones",
+        "Carlos Riquelme",
+        "Damien Vincent",
+        "Hartmut Maennel",
+        "Timothy Mann",
+        "Andre Barreto",
+        "Sylvain Gelly",
+        "Gergely Neu"
+    ],
+    "year": "2019",
+    "date_added": "2019-12-18 15:55",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1906.07987v1"
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Test-Time Training for Out-of-Distribution Generalization",
+    "authors": [
+        "Yu Sun",
+        "Xiaolong Wang",
+        "Zhuang Liu",
+        "John Miller",
+        "Alexei A. Efros",
+        "Moritz Hardt"
+    ],
+    "year": "2019",
+    "date_added": "2019-12-17 12:54",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1909.13231v2",
+    "tags_content": [
+        "self.supervised"
+    ]
+}

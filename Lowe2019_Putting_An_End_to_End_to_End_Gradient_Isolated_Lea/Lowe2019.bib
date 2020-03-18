@@ -1,0 +1,26 @@
+@article { Lowe2019,
+	abstract = {We propose a novel deep learning method for local self-supervised
+representation learning that does not require labels nor end-to-end
+backpropagation but exploits the natural order in data instead. Inspired by the
+observation that biological neural networks appear to learn without
+backpropagating a global error signal, we split a deep neural network into a
+stack of gradient-isolated modules. Each module is trained to maximally
+preserve the information of its inputs using the InfoNCE bound from Oord et al.
+[2018]. Despite this greedy training, we demonstrate that each module improves
+upon the output of its predecessor, and that the representations created by the
+top module yield highly competitive results on downstream classification tasks
+in the audio and visual domain. The proposal enables optimizing modules
+asynchronously, allowing large-scale distributed training of very deep neural
+networks on unlabelled datasets.},
+	url = {http://arxiv.org/pdf/1905.11786v2},
+	eprint = {1905.11786},
+	arxivid = {1905.11786},
+	archiveprefix = {arXiv},
+	month = {May},
+	year = {2019},
+	booktitle = {arXiv},
+	title = {{Putting An End to End-to-End: Gradient-Isolated Learning of
+  Representations}},
+	author = {Sindy Löwe and Peter O'Connor and Bastiaan S. Veeling}
+}
+

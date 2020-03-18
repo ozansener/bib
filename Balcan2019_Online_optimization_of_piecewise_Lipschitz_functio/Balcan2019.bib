@@ -1,0 +1,32 @@
+@article { Balcan2019,
+	abstract = {In an online optimization problem we are required to choose a sequence of
+points from a fixed feasible subset of $\mathbb{R}^d$. After each point is
+chosen, a function over the set is revealed and we accumulate payoff equal to
+the function value at the point. We consider the class of piecewise Lipschitz
+functions, which is the most general setting considered in the literature for
+the problem, and arises naturally in various combinatorial algorithm selection
+problems where utility functions can have sharp discontinuities. The usual
+performance metric of `static' regret minimizes the gap between the payoff
+accumulated and that of the best fixed point for the entire duration, and thus
+fails to capture changing environments. Shifting regret is a useful
+alternative, which allows for up to $s$ environment shifts. In this work we
+provide an $O(\sqrt{sdT\log T}+sT^{1-\beta})$ regret bound for
+$\beta$-dispersed functions, where $\beta$ roughly quantifies the rate at which
+discontinuities appear in the utility functions in expectation (typically
+$\beta\ge1/2$ in problems of practical interest). We show this bound is optimal
+up to sub-logarithmic factors. We further show how to improve the bounds when
+selecting from a small pool of experts. We empirically demonstrate a key
+application of our algorithms to online clustering problems, with 15-40%
+relative gain over static regret based algorithms on popular benchmarks.},
+	url = {http://arxiv.org/pdf/1907.09137v1},
+	eprint = {1907.09137},
+	arxivid = {1907.09137},
+	archiveprefix = {arXiv},
+	month = {Jul},
+	year = {2019},
+	booktitle = {arXiv},
+	title = {{Online optimization of piecewise Lipschitz functions in changing
+  environments}},
+	author = {Maria-Florina Balcan and Travis Dick and Dravyansh Sharma}
+}
+

@@ -1,0 +1,34 @@
+@article { Hu2019,
+	abstract = {In this paper, we try to uncover the second-order essence of several
+first-order optimization methods. For Nesterov Accelerated Gradient, we
+rigorously prove that the algorithm makes use of the difference between past
+and current gradients, thus approximates the Hessian and accelerates the
+training. For adaptive methods, we related Adam and Adagrad to a powerful
+technique in computation statistics---Natural Gradient Descent. These adaptive
+methods can in fact be treated as relaxations of NGD with only a slight
+difference lying in the square root of the denominator in the update rules.
+Skeptical about the effect of such difference, we design a new
+algorithm---AdaSqrt, which removes the square root in the denominator and
+scales the learning rate by sqrt(T). Surprisingly, our new algorithm is
+comparable to various first-order methods(such as SGD and Adam) on MNIST and
+even beats Adam on CIFAR-10! This phenomenon casts doubt on the convention view
+that the square root is crucial and training without it will lead to terrible
+performance. As far as we have concerned, so long as the algorithm tries to
+explore second or even higher information of the loss surface, then proper
+scaling of the learning rate alone will guarantee fast training and good
+generalization performance. To the best of our knowledge, this is the first
+paper that seriously considers the necessity of square root among all adaptive
+methods. We believe that our work can shed light on the importance of
+higher-order information and inspire the design of more powerful algorithms in
+the future.},
+	url = {http://arxiv.org/pdf/1912.09926v1},
+	eprint = {1912.09926},
+	arxivid = {1912.09926},
+	archiveprefix = {arXiv},
+	month = {Dec},
+	year = {2019},
+	booktitle = {arXiv},
+	title = {{Second-order Information in First-order Optimization Methods}},
+	author = {Yuzheng Hu and Licong Lin and Shange Tang}
+}
+

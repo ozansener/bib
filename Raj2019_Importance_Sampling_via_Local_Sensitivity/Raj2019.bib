@@ -1,0 +1,31 @@
+@article { Raj2019,
+	abstract = {Given a loss function $F:\mathcal{X} \rightarrow \mathbb{R}^+$ that can be
+written as the sum of losses over a large set of inputs $a_1,\ldots, a_n$, it
+is often desirable to approximate $F$ by subsampling the input points. Strong
+theoretical guarantees require taking into account the importance of each
+point, measured by how much its individual loss contributes to $F(x)$.
+Maximizing this importance over all $x \in \mathcal{X}$ yields the
+\emph{sensitivity score} of $a_i$. Sampling with probabilities proportional to
+these scores gives strong provable guarantees, allowing one to approximately
+minimize of $F$ using just the subsampled points. Unfortunately, sensitivity
+sampling is difficult to apply since 1) it is unclear how to efficiently
+compute the sensitivity scores and 2) the sample size required is often too
+large to be useful. We propose overcoming both obstacles by introducing the
+\emph{local sensitivity}, which measures data point importance in a ball around
+some center $x_0$. We show that the local sensitivity can be efficiently
+estimated using the \emph{leverage scores} of a quadratic approximation to $F$,
+and that the sample size required to approximate $F$ around $x_0$ can be
+bounded. We propose employing local sensitivity sampling in an iterative
+optimization method and illustrate its usefulness by analyzing its convergence
+when $F$ is smooth and convex.},
+	url = {http://arxiv.org/pdf/1911.01575v1},
+	eprint = {1911.01575},
+	arxivid = {1911.01575},
+	archiveprefix = {arXiv},
+	month = {Nov},
+	year = {2019},
+	booktitle = {arXiv},
+	title = {{Importance Sampling via Local Sensitivity}},
+	author = {Anant Raj and Cameron Musco and Lester Mackey}
+}
+

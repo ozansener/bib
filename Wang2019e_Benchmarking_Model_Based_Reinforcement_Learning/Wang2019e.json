@@ -1,0 +1,23 @@
+{
+    "title": "Benchmarking Model-Based Reinforcement Learning",
+    "authors": [
+        "Tingwu Wang",
+        "Xuchan Bao",
+        "Ignasi Clavera",
+        "Jerrick Hoang",
+        "Yeming Wen",
+        "Eric Langlois",
+        "Shunshi Zhang",
+        "Guodong Zhang",
+        "Pieter Abbeel",
+        "Jimmy Ba"
+    ],
+    "year": "2019",
+    "date_added": "2019-07-04 15:38",
+    "in": "arXiv",
+    "tags_reading": [
+        "new",
+        "re.start"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1907.02057v1"
+}

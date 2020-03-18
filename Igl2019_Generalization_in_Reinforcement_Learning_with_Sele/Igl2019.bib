@@ -1,0 +1,30 @@
+@article { Igl2019,
+	abstract = {The ability for policies to generalize to new environments is key to the
+broad application of RL agents. A promising approach to prevent an agent's
+policy from overfitting to a limited set of training environments is to apply
+regularization techniques originally developed for supervised learning.
+However, there are stark differences between supervised learning and RL. We
+discuss those differences and propose modifications to existing regularization
+techniques in order to better adapt them to RL. In particular, we focus on
+regularization techniques relying on the injection of noise into the learned
+function, a family that includes some of the most widely used approaches such
+as Dropout and Batch Normalization. To adapt them to RL, we propose Selective
+Noise Injection (SNI), which maintains the regularizing effect the injected
+noise has, while mitigating the adverse effects it has on the gradient quality.
+Furthermore, we demonstrate that the Information Bottleneck (IB) is a
+particularly well suited regularization technique for RL as it is effective in
+the low-data regime encountered early on in training RL agents. Combining the
+IB with SNI, we significantly outperform current state of the art results,
+including on the recently proposed generalization benchmark Coinrun.},
+	url = {http://arxiv.org/pdf/1910.12911v1},
+	eprint = {1910.12911},
+	arxivid = {1910.12911},
+	archiveprefix = {arXiv},
+	month = {Oct},
+	year = {2019},
+	booktitle = {arXiv},
+	title = {{Generalization in Reinforcement Learning with Selective Noise Injection
+  and Information Bottleneck}},
+	author = {Maximilian Igl and Kamil Ciosek and Yingzhen Li and Sebastian Tschiatschek and Cheng Zhang and Sam Devlin and Katja Hofmann}
+}
+

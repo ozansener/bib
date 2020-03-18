@@ -1,0 +1,16 @@
+{
+    "title": "Lookahead Optimizer: k steps forward, 1 step back",
+    "authors": [
+        "Michael R. Zhang",
+        "James Lucas",
+        "Geoffrey Hinton",
+        "Jimmy Ba"
+    ],
+    "year": "2019",
+    "date_added": "2019-07-22 15:24",
+    "in": "arXiv",
+    "tags_reading": [
+        "done"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1907.08610v1"
+}

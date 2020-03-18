@@ -1,0 +1,17 @@
+{
+    "title": "Meta-Learning with Implicit Gradients",
+    "authors": [
+        "Aravind Rajeswaran",
+        "Chelsea Finn",
+        "Sham Kakade",
+        "Sergey Levine"
+    ],
+    "year": "2019",
+    "date_added": "2019-09-12 10:59",
+    "in": "arXiv",
+    "tags_reading": [
+        "new",
+        "re.start"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1909.04630v1"
+}

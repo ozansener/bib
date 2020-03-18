@@ -1,0 +1,16 @@
+{
+    "title": "Surrogate Objectives for Batch Policy Optimization in One-step Decision Making",
+    "authors": [
+        "Chen, Minmin",
+        "Gummadi, Ramki",
+        "Harris, Chris",
+        "Schuurmans, Dale"
+    ],
+    "year": "2019",
+    "date_added": "2019-12-18 15:53",
+    "in": "Advances in Neural Information Processing Systems 32",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/papers.nips.cc\/paper\/9086-surrogate-objectives-for-batch-policy-optimization-in-one-step-decision-making.pdf"
+}

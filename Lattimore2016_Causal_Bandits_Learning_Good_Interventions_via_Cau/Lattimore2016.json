@@ -1,0 +1,15 @@
+{
+    "title": "Causal Bandits: Learning Good Interventions via Causal Inference",
+    "authors": [
+        "Lattimore, Finnian",
+        "Lattimore, Tor",
+        "Reid, Mark D"
+    ],
+    "year": "2016",
+    "date_added": "2019-12-18 16:03",
+    "in": "Advances in Neural Information Processing Systems 29",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/papers.nips.cc\/paper\/6195-causal-bandits-learning-good-interventions-via-causal-inference.pdf"
+}

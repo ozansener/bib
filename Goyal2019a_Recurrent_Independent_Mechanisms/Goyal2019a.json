@@ -1,0 +1,23 @@
+{
+    "title": "Recurrent Independent Mechanisms",
+    "authors": [
+        "Anirudh Goyal",
+        "Alex Lamb",
+        "Jordan Hoffmann",
+        "Shagun Sodhani",
+        "Sergey Levine",
+        "Yoshua Bengio",
+        "Bernhard Sch\u00f6lkopf"
+    ],
+    "year": "2019",
+    "date_added": "2019-10-02 14:42",
+    "in": "arXiv",
+    "tags_reading": [
+        "new",
+        "re.start"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1909.10893v2",
+    "tags_content": [
+        "causality"
+    ]
+}
