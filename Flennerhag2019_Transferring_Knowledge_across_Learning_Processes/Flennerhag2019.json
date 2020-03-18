@@ -10,7 +10,10 @@
     "date_added": "2018-12-26 05:07",
     "in": "International Conference on Learning Representations",
     "tags_reading": [
-        "to.read.this.week"
+        "done"
     ],
-    "url": "https:\/\/openreview.net\/forum?id=HygBZnRctX"
+    "url": "https:\/\/openreview.net\/forum?id=HygBZnRctX",
+    "tags_content": [
+        "meta.learning"
+    ]
 }

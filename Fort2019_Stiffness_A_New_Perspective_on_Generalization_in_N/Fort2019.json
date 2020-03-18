@@ -9,7 +9,10 @@
     "date_added": "2019-01-29 15:59",
     "in": "arXiv",
     "tags_reading": [
-        "to.read.this.week"
+        "done"
     ],
-    "url": "http:\/\/arxiv.org\/pdf\/1901.09491v1"
+    "url": "http:\/\/arxiv.org\/pdf\/1901.09491v1",
+    "tags_content": [
+        "explainining.DL"
+    ]
 }

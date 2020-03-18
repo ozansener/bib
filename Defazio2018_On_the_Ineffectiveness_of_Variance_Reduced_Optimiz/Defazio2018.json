@@ -8,7 +8,11 @@
     "date_added": "2019-01-10 13:45",
     "in": "arXiv",
     "tags_reading": [
-        "new"
+        "done"
     ],
-    "url": "http:\/\/arxiv.org\/pdf\/1812.04529v1"
+    "url": "http:\/\/arxiv.org\/pdf\/1812.04529v1",
+    "tags_content": [
+        "stochastic.optimization",
+        "variance.reduction"
+    ]
 }

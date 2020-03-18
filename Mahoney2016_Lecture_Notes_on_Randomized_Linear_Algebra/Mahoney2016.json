@@ -7,7 +7,9 @@
     "date_added": "2019-05-29 17:29",
     "in": "arXiv",
     "tags_reading": [
-        "new"
+        "new",
+        "re.start",
+        "long.term"
     ],
     "url": "http:\/\/arxiv.org\/pdf\/1608.04481v1"
 }

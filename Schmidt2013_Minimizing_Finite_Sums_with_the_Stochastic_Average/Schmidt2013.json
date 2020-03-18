@@ -9,7 +9,9 @@
     "date_added": "2019-06-11 14:25",
     "in": "arXiv",
     "tags_reading": [
-        "new"
+        "new",
+        "re.start",
+        "classic"
     ],
     "url": "http:\/\/arxiv.org\/pdf\/1309.2388v2"
 }
